@@ -116,7 +116,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "PF"
     ],
     "overall": 81,
     "offense": 79,
@@ -260,7 +261,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 76,
     "offense": 76,
@@ -368,7 +370,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 82,
@@ -405,7 +408,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "PG"
     ],
     "overall": 82,
     "offense": 83,
@@ -441,7 +445,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 80,
@@ -477,7 +482,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 81,
     "offense": 81,
@@ -513,7 +519,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 80,
     "offense": 80,
@@ -550,7 +557,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 75,
     "offense": 78,
@@ -949,7 +957,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "SF"
     ],
     "overall": 76,
     "offense": 77,
@@ -1021,7 +1030,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 75,
     "offense": 76,
@@ -1747,7 +1757,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 75,
     "offense": 74,
@@ -1820,7 +1831,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 84,
@@ -1856,7 +1868,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "PG"
     ],
     "overall": 82,
     "offense": 82,
@@ -2217,7 +2230,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 81,
@@ -2470,7 +2484,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "C"
     ],
     "overall": 75,
     "offense": 76,
@@ -2543,7 +2558,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 84,
@@ -2652,7 +2668,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 81,
     "offense": 81,
@@ -2835,7 +2852,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 75,
     "offense": 74,
@@ -2907,7 +2925,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 84,
@@ -3015,7 +3034,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 81,
     "offense": 82,
@@ -3235,7 +3255,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 74,
     "offense": 76,
@@ -3380,7 +3401,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 81,
     "offense": 80,
@@ -3416,7 +3438,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 80,
     "offense": 78,
@@ -3744,7 +3767,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "C"
     ],
     "overall": 81,
     "offense": 82,
@@ -3925,7 +3949,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 75,
     "offense": 76,
@@ -4033,7 +4058,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 83,
@@ -4359,7 +4385,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 82,
@@ -4395,7 +4422,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "SF"
     ],
     "overall": 82,
     "offense": 81,
@@ -4468,7 +4496,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "PF"
     ],
     "overall": 81,
     "offense": 81,
@@ -5192,7 +5221,9 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF",
+      "SG"
     ],
     "overall": 81,
     "offense": 79,
@@ -5517,7 +5548,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "PF"
     ],
     "overall": 82,
     "offense": 84,
@@ -5553,7 +5585,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 81,
     "offense": 80,
@@ -5661,7 +5694,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "SF"
     ],
     "overall": 76,
     "offense": 77,
@@ -5841,7 +5875,9 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "SF",
+      "PF"
     ],
     "overall": 82,
     "offense": 82,
@@ -5877,7 +5913,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF"
     ],
     "overall": 82,
     "offense": 80,
@@ -5913,7 +5950,9 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF",
+      "SG"
     ],
     "overall": 94,
     "offense": 92,
@@ -6096,7 +6135,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "C"
     ],
     "overall": 75,
     "offense": 74,
@@ -6277,7 +6317,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "C"
     ],
     "overall": 81,
     "offense": 83,
@@ -6858,7 +6899,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 74,
     "offense": 75,
@@ -6894,7 +6936,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 85,
@@ -6930,7 +6973,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 81,
@@ -7113,7 +7157,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SG"
+      "SG",
+      "PG"
     ],
     "overall": 76,
     "offense": 76,
@@ -7185,7 +7230,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 75,
     "offense": 74,
@@ -7257,7 +7303,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 83,
@@ -7293,7 +7340,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "SF"
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 82,
@@ -7403,7 +7451,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 80,
     "offense": 81,
@@ -7766,7 +7815,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "overall": 80,
     "offense": 79,
@@ -7982,7 +8032,8 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PG"
+      "PG",
+      "SG"
     ],
     "overall": 81,
     "offense": 84,
@@ -8054,7 +8105,9 @@
     "season": "2025-26",
     "decadeTags": [],
     "positions": [
-      "PF"
+      "PF",
+      "SF",
+      "SG"
     ],
     "overall": 82,
     "offense": 83,
@@ -10864,6 +10917,3634 @@
     "active": true,
     "playingStatus": "active",
     "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-atl-keaton-wallace-11",
+    "name": "Keaton Wallace",
+    "teamId": "ATL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 68,
+    "shooting": 66,
+    "playmaking": 68,
+    "rebounding": 64,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-atl-asa-newell-12",
+    "name": "Asa Newell",
+    "teamId": "ATL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 70,
+    "offense": 68,
+    "defense": 69,
+    "shooting": 67,
+    "playmaking": 64,
+    "rebounding": 68,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-atl-cj-mccollum-13",
+    "name": "CJ McCollum",
+    "teamId": "ATL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 77,
+    "offense": 79,
+    "defense": 72,
+    "shooting": 77,
+    "playmaking": 75,
+    "rebounding": 71,
+    "athleticism": 81,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2013,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-atl-corey-kispert-14",
+    "name": "Corey Kispert",
+    "teamId": "ATL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 68,
+    "shooting": 70,
+    "playmaking": 67,
+    "rebounding": 68,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bos-hugo-gonz-lez-11",
+    "name": "Hugo González",
+    "teamId": "BOS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 70,
+    "shooting": 66,
+    "playmaking": 64,
+    "rebounding": 71,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bos-luka-garza-12",
+    "name": "Luka Garza",
+    "teamId": "BOS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 72,
+    "offense": 70,
+    "defense": 71,
+    "shooting": 69,
+    "playmaking": 65,
+    "rebounding": 74,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bos-jordan-walsh-13",
+    "name": "Jordan Walsh",
+    "teamId": "BOS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 68,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 65,
+    "rebounding": 73,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bos-anfernee-simons-14",
+    "name": "Anfernee Simons",
+    "teamId": "BOS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 74,
+    "offense": 75,
+    "defense": 69,
+    "shooting": 74,
+    "playmaking": 70,
+    "rebounding": 68,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bkn-drake-powell-11",
+    "name": "Drake Powell",
+    "teamId": "BKN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 69,
+    "shooting": 68,
+    "playmaking": 66,
+    "rebounding": 67,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bkn-nolan-traor-12",
+    "name": "Nolan Traoré",
+    "teamId": "BKN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 70,
+    "shooting": 70,
+    "playmaking": 74,
+    "rebounding": 67,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bkn-michael-porter-jr-13",
+    "name": "Michael Porter Jr.",
+    "teamId": "BKN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 80,
+    "offense": 83,
+    "defense": 75,
+    "shooting": 81,
+    "playmaking": 72,
+    "rebounding": 83,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-bkn-ben-saraf-14",
+    "name": "Ben Saraf",
+    "teamId": "BKN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 70,
+    "shooting": 69,
+    "playmaking": 73,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cha-sion-james-11",
+    "name": "Sion James",
+    "teamId": "CHA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 70,
+    "shooting": 67,
+    "playmaking": 68,
+    "rebounding": 72,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cha-ryan-kalkbrenner-12",
+    "name": "Ryan Kalkbrenner",
+    "teamId": "CHA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 73,
+    "offense": 70,
+    "defense": 75,
+    "shooting": 69,
+    "playmaking": 65,
+    "rebounding": 78,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cha-collin-sexton-13",
+    "name": "Collin Sexton",
+    "teamId": "CHA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 75,
+    "offense": 76,
+    "defense": 70,
+    "shooting": 74,
+    "playmaking": 74,
+    "rebounding": 67,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cha-pat-connaughton-14",
+    "name": "Pat Connaughton",
+    "teamId": "CHA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 67,
+    "shooting": 65,
+    "playmaking": 63,
+    "rebounding": 66,
+    "athleticism": 71,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2015,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-chi-kevin-huerter-11",
+    "name": "Kevin Huerter",
+    "teamId": "CHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 74,
+    "offense": 73,
+    "defense": 72,
+    "shooting": 71,
+    "playmaking": 70,
+    "rebounding": 73,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-chi-lachlan-olbrich-12",
+    "name": "Lachlan Olbrich",
+    "teamId": "CHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 70,
+    "offense": 66,
+    "defense": 69,
+    "shooting": 65,
+    "playmaking": 66,
+    "rebounding": 70,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-chi-julian-phillips-13",
+    "name": "Julian Phillips",
+    "teamId": "CHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 68,
+    "shooting": 65,
+    "playmaking": 63,
+    "rebounding": 65,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-chi-dalen-terry-14",
+    "name": "Dalen Terry",
+    "teamId": "CHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 69,
+    "shooting": 66,
+    "playmaking": 66,
+    "rebounding": 67,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cle-jaylon-tyson-11",
+    "name": "Jaylon Tyson",
+    "teamId": "CLE",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 75,
+    "offense": 75,
+    "defense": 73,
+    "shooting": 73,
+    "playmaking": 69,
+    "rebounding": 77,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cle-craig-porter-jr-12",
+    "name": "Craig Porter Jr.",
+    "teamId": "CLE",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 68,
+    "defense": 72,
+    "shooting": 66,
+    "playmaking": 72,
+    "rebounding": 72,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cle-nae-qwan-tomlin-13",
+    "name": "Nae'Qwan Tomlin",
+    "teamId": "CLE",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 71,
+    "shooting": 67,
+    "playmaking": 65,
+    "rebounding": 70,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-cle-dean-wade-14",
+    "name": "Dean Wade",
+    "teamId": "CLE",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 72,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 67,
+    "rebounding": 74,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-dal-brandon-williams-11",
+    "name": "Brandon Williams",
+    "teamId": "DAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG",
+      "SG",
+      "SF"
+    ],
+    "overall": 75,
+    "offense": 75,
+    "defense": 71,
+    "shooting": 73,
+    "playmaking": 74,
+    "rebounding": 70,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1997,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-dal-dwight-powell-12",
+    "name": "Dwight Powell",
+    "teamId": "DAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 71,
+    "shooting": 65,
+    "playmaking": 66,
+    "rebounding": 74,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-dal-ryan-nembhard-13",
+    "name": "Ryan Nembhard",
+    "teamId": "DAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 68,
+    "shooting": 68,
+    "playmaking": 79,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-dal-caleb-martin-14",
+    "name": "Caleb Martin",
+    "teamId": "DAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 70,
+    "shooting": 66,
+    "playmaking": 66,
+    "rebounding": 69,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-den-tim-hardaway-jr-11",
+    "name": "Tim Hardaway Jr.",
+    "teamId": "DEN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 74,
+    "offense": 75,
+    "defense": 69,
+    "shooting": 73,
+    "playmaking": 66,
+    "rebounding": 69,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1989,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-den-spencer-jones-12",
+    "name": "Spencer Jones",
+    "teamId": "DEN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 68,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 65,
+    "rebounding": 71,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-den-zeke-nnaji-13",
+    "name": "Zeke Nnaji",
+    "teamId": "DEN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 69,
+    "shooting": 66,
+    "playmaking": 64,
+    "rebounding": 69,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2020,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-den-jalen-pickett-14",
+    "name": "Jalen Pickett",
+    "teamId": "DEN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 68,
+    "shooting": 67,
+    "playmaking": 69,
+    "rebounding": 68,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-det-javonte-green-11",
+    "name": "Javonte Green",
+    "teamId": "DET",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 68,
+    "playmaking": 64,
+    "rebounding": 70,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-det-duncan-robinson-12",
+    "name": "Duncan Robinson",
+    "teamId": "DET",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 73,
+    "offense": 74,
+    "defense": 70,
+    "shooting": 72,
+    "playmaking": 69,
+    "rebounding": 69,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-det-daniss-jenkins-13",
+    "name": "Daniss Jenkins",
+    "teamId": "DET",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 70,
+    "shooting": 70,
+    "playmaking": 74,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-det-marcus-sasser-14",
+    "name": "Marcus Sasser",
+    "teamId": "DET",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 70,
+    "offense": 69,
+    "defense": 68,
+    "shooting": 67,
+    "playmaking": 68,
+    "rebounding": 64,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-gsw-gary-payton-ii-11",
+    "name": "Gary Payton II",
+    "teamId": "GSW",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 72,
+    "offense": 70,
+    "defense": 71,
+    "shooting": 69,
+    "playmaking": 67,
+    "rebounding": 72,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1990,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-gsw-will-richard-12",
+    "name": "Will Richard",
+    "teamId": "GSW",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 71,
+    "shooting": 68,
+    "playmaking": 66,
+    "rebounding": 69,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-gsw-gui-santos-13",
+    "name": "Gui Santos",
+    "teamId": "GSW",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 72,
+    "shooting": 70,
+    "playmaking": 69,
+    "rebounding": 73,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-gsw-pat-spencer-14",
+    "name": "Pat Spencer",
+    "teamId": "GSW",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 69,
+    "shooting": 68,
+    "playmaking": 73,
+    "rebounding": 68,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-hou-kevin-durant-11",
+    "name": "Kevin Durant",
+    "teamId": "HOU",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 81,
+    "offense": 85,
+    "defense": 75,
+    "shooting": 82,
+    "playmaking": 77,
+    "rebounding": 78,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2007,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-hou-clint-capela-12",
+    "name": "Clint Capela",
+    "teamId": "HOU",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 71,
+    "offense": 67,
+    "defense": 73,
+    "shooting": 66,
+    "playmaking": 64,
+    "rebounding": 75,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-hou-aaron-holiday-13",
+    "name": "Aaron Holiday",
+    "teamId": "HOU",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 70,
+    "offense": 69,
+    "defense": 68,
+    "shooting": 67,
+    "playmaking": 66,
+    "rebounding": 64,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-ind-jay-huff-11",
+    "name": "Jay Huff",
+    "teamId": "IND",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 75,
+    "shooting": 70,
+    "playmaking": 67,
+    "rebounding": 73,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-ind-ben-sheppard-12",
+    "name": "Ben Sheppard",
+    "teamId": "IND",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 72,
+    "offense": 70,
+    "defense": 70,
+    "shooting": 68,
+    "playmaking": 68,
+    "rebounding": 70,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-ind-quenton-jackson-13",
+    "name": "Quenton Jackson",
+    "teamId": "IND",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 72,
+    "defense": 69,
+    "shooting": 70,
+    "playmaking": 71,
+    "rebounding": 68,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lac-nicolas-batum-11",
+    "name": "Nicolas Batum",
+    "teamId": "LAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF",
+      "SF",
+      "SG"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 70,
+    "shooting": 66,
+    "playmaking": 65,
+    "rebounding": 69,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2008,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lac-kobe-sanders-12",
+    "name": "Kobe Sanders",
+    "teamId": "LAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 70,
+    "defense": 69,
+    "shooting": 68,
+    "playmaking": 67,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lac-jordan-miller-13",
+    "name": "Jordan Miller",
+    "teamId": "LAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 70,
+    "shooting": 70,
+    "playmaking": 69,
+    "rebounding": 70,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lal-dalton-knecht-11",
+    "name": "Dalton Knecht",
+    "teamId": "LAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 69,
+    "offense": 67,
+    "defense": 67,
+    "shooting": 66,
+    "playmaking": 63,
+    "rebounding": 65,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lal-maxi-kleber-12",
+    "name": "Maxi Kleber",
+    "teamId": "LAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 69,
+    "shooting": 64,
+    "playmaking": 64,
+    "rebounding": 67,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-lal-bronny-james-13",
+    "name": "Bronny James",
+    "teamId": "LAL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 69,
+    "offense": 67,
+    "defense": 67,
+    "shooting": 65,
+    "playmaking": 66,
+    "rebounding": 63,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mem-cam-spencer-11",
+    "name": "Cam Spencer",
+    "teamId": "MEM",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 74,
+    "offense": 74,
+    "defense": 70,
+    "shooting": 71,
+    "playmaking": 80,
+    "rebounding": 69,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mem-cedric-coward-12",
+    "name": "Cedric Coward",
+    "teamId": "MEM",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 75,
+    "offense": 75,
+    "defense": 73,
+    "shooting": 73,
+    "playmaking": 71,
+    "rebounding": 79,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mem-gg-jackson-ii-13",
+    "name": "GG Jackson II",
+    "teamId": "MEM",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 74,
+    "offense": 74,
+    "defense": 73,
+    "shooting": 72,
+    "playmaking": 67,
+    "rebounding": 74,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mia-pelle-larsson-11",
+    "name": "Pelle Larsson",
+    "teamId": "MIA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 74,
+    "offense": 74,
+    "defense": 70,
+    "shooting": 72,
+    "playmaking": 73,
+    "rebounding": 72,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mia-simone-fontecchio-12",
+    "name": "Simone Fontecchio",
+    "teamId": "MIA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 69,
+    "shooting": 69,
+    "playmaking": 66,
+    "rebounding": 70,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mia-dru-smith-13",
+    "name": "Dru Smith",
+    "teamId": "MIA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 70,
+    "rebounding": 69,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mil-ryan-rollins-11",
+    "name": "Ryan Rollins",
+    "teamId": "MIL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 78,
+    "offense": 79,
+    "defense": 74,
+    "shooting": 76,
+    "playmaking": 80,
+    "rebounding": 75,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mil-jericho-sims-12",
+    "name": "Jericho Sims",
+    "teamId": "MIL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 72,
+    "offense": 68,
+    "defense": 71,
+    "shooting": 67,
+    "playmaking": 67,
+    "rebounding": 78,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-mil-gary-harris-13",
+    "name": "Gary Harris",
+    "teamId": "MIL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 68,
+    "shooting": 65,
+    "playmaking": 66,
+    "rebounding": 65,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-min-bones-hyland-11",
+    "name": "Bones Hyland",
+    "teamId": "MIN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 69,
+    "shooting": 69,
+    "playmaking": 70,
+    "rebounding": 67,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-min-jaylen-clark-12",
+    "name": "Jaylen Clark",
+    "teamId": "MIN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 69,
+    "shooting": 66,
+    "playmaking": 64,
+    "rebounding": 67,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-min-joe-ingles-13",
+    "name": "Joe Ingles",
+    "teamId": "MIN",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 68,
+    "offense": 66,
+    "defense": 67,
+    "shooting": 64,
+    "playmaking": 66,
+    "rebounding": 63,
+    "athleticism": 71,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nop-jeremiah-fears-11",
+    "name": "Jeremiah Fears",
+    "teamId": "NOP",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 75,
+    "offense": 76,
+    "defense": 73,
+    "shooting": 74,
+    "playmaking": 73,
+    "rebounding": 72,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nop-derik-queen-12",
+    "name": "Derik Queen",
+    "teamId": "NOP",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 76,
+    "offense": 74,
+    "defense": 76,
+    "shooting": 72,
+    "playmaking": 74,
+    "rebounding": 83,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nop-karlo-matkovi-13",
+    "name": "Karlo Matković",
+    "teamId": "NOP",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 65,
+    "rebounding": 72,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nyk-mohamed-diawara-11",
+    "name": "Mohamed Diawara",
+    "teamId": "NYK",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 69,
+    "offense": 67,
+    "defense": 67,
+    "shooting": 66,
+    "playmaking": 65,
+    "rebounding": 65,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nyk-ariel-hukporti-12",
+    "name": "Ariel Hukporti",
+    "teamId": "NYK",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 69,
+    "shooting": 65,
+    "playmaking": 64,
+    "rebounding": 70,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-nyk-landry-shamet-13",
+    "name": "Landry Shamet",
+    "teamId": "NYK",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 72,
+    "offense": 71,
+    "defense": 69,
+    "shooting": 70,
+    "playmaking": 66,
+    "rebounding": 67,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-okc-isaiah-joe-11",
+    "name": "Isaiah Joe",
+    "teamId": "OKC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 73,
+    "offense": 73,
+    "defense": 70,
+    "shooting": 71,
+    "playmaking": 66,
+    "rebounding": 69,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2020,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-okc-alex-caruso-12",
+    "name": "Alex Caruso",
+    "teamId": "OKC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 68,
+    "playmaking": 68,
+    "rebounding": 70,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-okc-kenrich-williams-13",
+    "name": "Kenrich Williams",
+    "teamId": "OKC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 70,
+    "shooting": 68,
+    "playmaking": 66,
+    "rebounding": 71,
+    "athleticism": 75,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-orl-desmond-bane-11",
+    "name": "Desmond Bane",
+    "teamId": "ORL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 78,
+    "offense": 81,
+    "defense": 73,
+    "shooting": 78,
+    "playmaking": 75,
+    "rebounding": 74,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2020,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-orl-noah-penda-12",
+    "name": "Noah Penda",
+    "teamId": "ORL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 70,
+    "shooting": 66,
+    "playmaking": 66,
+    "rebounding": 71,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-orl-jett-howard-13",
+    "name": "Jett Howard",
+    "teamId": "ORL",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 70,
+    "offense": 68,
+    "defense": 67,
+    "shooting": 67,
+    "playmaking": 65,
+    "rebounding": 66,
+    "athleticism": 74,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phi-vj-edgecombe-11",
+    "name": "VJ Edgecombe",
+    "teamId": "PHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 77,
+    "offense": 77,
+    "defense": 75,
+    "shooting": 75,
+    "playmaking": 75,
+    "rebounding": 78,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phi-dominick-barlow-12",
+    "name": "Dominick Barlow",
+    "teamId": "PHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 73,
+    "offense": 70,
+    "defense": 74,
+    "shooting": 69,
+    "playmaking": 66,
+    "rebounding": 76,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phi-adem-bona-13",
+    "name": "Adem Bona",
+    "teamId": "PHI",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 71,
+    "offense": 68,
+    "defense": 73,
+    "shooting": 67,
+    "playmaking": 64,
+    "rebounding": 74,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phx-oso-ighodaro-11",
+    "name": "Oso Ighodaro",
+    "teamId": "PHX",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 73,
+    "offense": 70,
+    "defense": 74,
+    "shooting": 68,
+    "playmaking": 69,
+    "rebounding": 77,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phx-collin-gillespie-12",
+    "name": "Collin Gillespie",
+    "teamId": "PHX",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 75,
+    "offense": 75,
+    "defense": 72,
+    "shooting": 73,
+    "playmaking": 77,
+    "rebounding": 74,
+    "athleticism": 81,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-phx-jordan-goodwin-13",
+    "name": "Jordan Goodwin",
+    "teamId": "PHX",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 73,
+    "offense": 71,
+    "defense": 74,
+    "shooting": 70,
+    "playmaking": 69,
+    "rebounding": 76,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-por-sidy-cissoko-11",
+    "name": "Sidy Cissoko",
+    "teamId": "POR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 68,
+    "defense": 70,
+    "shooting": 67,
+    "playmaking": 67,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-por-kris-murray-12",
+    "name": "Kris Murray",
+    "teamId": "POR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 71,
+    "offense": 69,
+    "defense": 72,
+    "shooting": 67,
+    "playmaking": 66,
+    "rebounding": 72,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-por-caleb-love-13",
+    "name": "Caleb Love",
+    "teamId": "POR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 73,
+    "offense": 73,
+    "defense": 69,
+    "shooting": 71,
+    "playmaking": 70,
+    "rebounding": 68,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sac-russell-westbrook-11",
+    "name": "Russell Westbrook",
+    "teamId": "SAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "PG"
+    ],
+    "overall": 77,
+    "offense": 78,
+    "defense": 74,
+    "shooting": 74,
+    "playmaking": 83,
+    "rebounding": 78,
+    "athleticism": 81,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2008,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sac-dylan-cardwell-12",
+    "name": "Dylan Cardwell",
+    "teamId": "SAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "C"
+    ],
+    "overall": 73,
+    "offense": 69,
+    "defense": 78,
+    "shooting": 67,
+    "playmaking": 66,
+    "rebounding": 84,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sac-keon-ellis-13",
+    "name": "Keon Ellis",
+    "teamId": "SAC",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 70,
+    "offense": 68,
+    "defense": 71,
+    "shooting": 67,
+    "playmaking": 64,
+    "rebounding": 65,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sas-julian-champagnie-11",
+    "name": "Julian Champagnie",
+    "teamId": "SAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 74,
+    "offense": 73,
+    "defense": 74,
+    "shooting": 71,
+    "playmaking": 67,
+    "rebounding": 79,
+    "athleticism": 80,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2022,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sas-keldon-johnson-12",
+    "name": "Keldon Johnson",
+    "teamId": "SAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 74,
+    "offense": 74,
+    "defense": 71,
+    "shooting": 73,
+    "playmaking": 66,
+    "rebounding": 78,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-sas-carter-bryant-13",
+    "name": "Carter Bryant",
+    "teamId": "SAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PF"
+    ],
+    "overall": 70,
+    "offense": 67,
+    "defense": 68,
+    "shooting": 66,
+    "playmaking": 64,
+    "rebounding": 69,
+    "athleticism": 73,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-tor-brandon-ingram-11",
+    "name": "Brandon Ingram",
+    "teamId": "TOR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 79,
+    "offense": 81,
+    "defense": 74,
+    "shooting": 79,
+    "playmaking": 74,
+    "rebounding": 78,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-tor-ja-kobe-walter-12",
+    "name": "Ja'Kobe Walter",
+    "teamId": "TOR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 72,
+    "offense": 70,
+    "defense": 71,
+    "shooting": 69,
+    "playmaking": 66,
+    "rebounding": 69,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-tor-jamison-battle-13",
+    "name": "Jamison Battle",
+    "teamId": "TOR",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 69,
+    "offense": 66,
+    "defense": 66,
+    "shooting": 65,
+    "playmaking": 63,
+    "rebounding": 66,
+    "athleticism": 72,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2024,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-uta-brice-sensabaugh-11",
+    "name": "Brice Sensabaugh",
+    "teamId": "UTA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 74,
+    "offense": 76,
+    "defense": 70,
+    "shooting": 74,
+    "playmaking": 68,
+    "rebounding": 71,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2023,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-uta-svi-mykhailiuk-12",
+    "name": "Svi Mykhailiuk",
+    "teamId": "UTA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 72,
+    "offense": 72,
+    "defense": 69,
+    "shooting": 70,
+    "playmaking": 68,
+    "rebounding": 69,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-uta-walter-clayton-13",
+    "name": "Walter Clayton",
+    "teamId": "UTA",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "PG"
+    ],
+    "overall": 72,
+    "offense": 70,
+    "defense": 69,
+    "shooting": 68,
+    "playmaking": 72,
+    "rebounding": 67,
+    "athleticism": 76,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-was-will-riley-11",
+    "name": "Will Riley",
+    "teamId": "WAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 73,
+    "offense": 72,
+    "defense": 70,
+    "shooting": 71,
+    "playmaking": 68,
+    "rebounding": 70,
+    "athleticism": 78,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-was-justin-champagnie-12",
+    "name": "Justin Champagnie",
+    "teamId": "WAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SF"
+    ],
+    "overall": 73,
+    "offense": 71,
+    "defense": 74,
+    "shooting": 70,
+    "playmaking": 66,
+    "rebounding": 78,
+    "athleticism": 77,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "current-was-tre-johnson-13",
+    "name": "Tre Johnson",
+    "teamId": "WAS",
+    "era": "current",
+    "season": "2025-26",
+    "decadeTags": [],
+    "positions": [
+      "SG"
+    ],
+    "overall": 73,
+    "offense": 74,
+    "defense": 70,
+    "shooting": 72,
+    "playmaking": 68,
+    "rebounding": 70,
+    "athleticism": 79,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2025,
     "careerEndYear": null,
     "factVerification": {
       "status": "verified-secondary",
