@@ -11482,5 +11482,3924 @@
       ],
       "notes": []
     }
+  },
+  {
+    "id": "alltime-atl-kevin-willis-11",
+    "name": "Kevin Willis",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 82,
+    "offense": 80,
+    "defense": 85,
+    "shooting": 79,
+    "playmaking": 67,
+    "rebounding": 98,
+    "athleticism": 88,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1984,
+    "careerEndYear": 2007,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1995_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-atl-jalen-johnson-12",
+    "name": "Jalen Johnson",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 84,
+    "defense": 78,
+    "shooting": 80,
+    "playmaking": 87,
+    "rebounding": 93,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-atl-john-drew-13",
+    "name": "John Drew",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 83,
+    "defense": 78,
+    "shooting": 81,
+    "playmaking": 68,
+    "rebounding": 89,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1974,
+    "careerEndYear": 1985,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1977_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-atl-zelmo-beaty-14",
+    "name": "Zelmo Beaty",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1965-66",
+    "decadeTags": [
+      "60s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 80,
+    "defense": 76,
+    "shooting": 79,
+    "playmaking": 67,
+    "rebounding": 98,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1962,
+    "careerEndYear": 1975,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1966_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bos-jayson-tatum-11",
+    "name": "Jayson Tatum",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2022-23",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 83,
+    "offense": 88,
+    "defense": 77,
+    "shooting": 86,
+    "playmaking": 77,
+    "rebounding": 88,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2023_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bos-jaylen-brown-12",
+    "name": "Jaylen Brown",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 82,
+    "offense": 87,
+    "defense": 75,
+    "shooting": 85,
+    "playmaking": 78,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bos-dave-cowens-13",
+    "name": "Dave Cowens",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1974-75",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 84,
+    "shooting": 78,
+    "playmaking": 77,
+    "rebounding": 98,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1970,
+    "careerEndYear": 1983,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1975_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bos-isaiah-thomas-14",
+    "name": "Isaiah Thomas",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 88,
+    "defense": 70,
+    "shooting": 85,
+    "playmaking": 81,
+    "rebounding": 69,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2011,
+    "careerEndYear": 2024,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2017_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bkn-james-harden-11",
+    "name": "James Harden",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 84,
+    "offense": 86,
+    "defense": 78,
+    "shooting": 81,
+    "playmaking": 97,
+    "rebounding": 87,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2009,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bkn-kevin-durant-12",
+    "name": "Kevin Durant",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 89,
+    "defense": 76,
+    "shooting": 85,
+    "playmaking": 82,
+    "rebounding": 84,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2007,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bkn-kyrie-irving-13",
+    "name": "Kyrie Irving",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2019-20",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 82,
+    "offense": 87,
+    "defense": 75,
+    "shooting": 84,
+    "playmaking": 82,
+    "rebounding": 77,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2011,
+    "careerEndYear": 2025,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2020_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-bkn-michael-ray-richardson-14",
+    "name": "Michael Ray Richardson",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1984-85",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 79,
+    "shooting": 78,
+    "playmaking": 88,
+    "rebounding": 78,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1978,
+    "careerEndYear": 1986,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1985_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cha-al-jefferson-11",
+    "name": "Al Jefferson",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 79,
+    "playmaking": 69,
+    "rebounding": 94,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2004,
+    "careerEndYear": 2018,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2014_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cha-terry-rozier-12",
+    "name": "Terry Rozier",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 80,
+    "offense": 84,
+    "defense": 73,
+    "shooting": 80,
+    "playmaking": 83,
+    "rebounding": 73,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2015,
+    "careerEndYear": 2025,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cha-anthony-mason-13",
+    "name": "Anthony Mason",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 78,
+    "defense": 79,
+    "shooting": 75,
+    "playmaking": 80,
+    "rebounding": 96,
+    "athleticism": 87,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1989,
+    "careerEndYear": 2003,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1997_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cha-miles-bridges-14",
+    "name": "Miles Bridges",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 79,
+    "offense": 81,
+    "defense": 75,
+    "shooting": 78,
+    "playmaking": 74,
+    "rebounding": 84,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-chi-demar-derozan-11",
+    "name": "DeMar DeRozan",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 87,
+    "defense": 73,
+    "shooting": 84,
+    "playmaking": 78,
+    "rebounding": 77,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2009,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-chi-zach-lavine-12",
+    "name": "Zach LaVine",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 73,
+    "shooting": 84,
+    "playmaking": 78,
+    "rebounding": 76,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-chi-jimmy-butler-13",
+    "name": "Jimmy Butler",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 81,
+    "offense": 84,
+    "defense": 77,
+    "shooting": 81,
+    "playmaking": 80,
+    "rebounding": 80,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2011,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2017_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-chi-elton-brand-14",
+    "name": "Elton Brand",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 80,
+    "defense": 81,
+    "shooting": 78,
+    "playmaking": 72,
+    "rebounding": 92,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1999,
+    "careerEndYear": 2016,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2001_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cle-donovan-mitchell-11",
+    "name": "Donovan Mitchell",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 76,
+    "shooting": 83,
+    "playmaking": 82,
+    "rebounding": 77,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cle-ron-harper-12",
+    "name": "Ron Harper",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1989-90",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 80,
+    "shooting": 80,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1986,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1990_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cle-darius-garland-13",
+    "name": "Darius Garland",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 80,
+    "offense": 83,
+    "defense": 72,
+    "shooting": 79,
+    "playmaking": 90,
+    "rebounding": 71,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-cle-shawn-kemp-14",
+    "name": "Shawn Kemp",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 79,
+    "offense": 80,
+    "defense": 79,
+    "shooting": 78,
+    "playmaking": 70,
+    "rebounding": 90,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1989,
+    "careerEndYear": 2003,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1999_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-dal-luka-don-i-11",
+    "name": "Luka Dončić",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 87,
+    "offense": 93,
+    "defense": 78,
+    "shooting": 88,
+    "playmaking": 93,
+    "rebounding": 90,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-dal-kyrie-irving-12",
+    "name": "Kyrie Irving",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2022-23",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 75,
+    "shooting": 83,
+    "playmaking": 81,
+    "rebounding": 76,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2011,
+    "careerEndYear": 2025,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2023_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-dal-anthony-davis-13",
+    "name": "Anthony Davis",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 78,
+    "playmaking": 76,
+    "rebounding": 92,
+    "athleticism": 81,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2012,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-dal-roy-tarpley-14",
+    "name": "Roy Tarpley",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 80,
+    "defense": 83,
+    "shooting": 78,
+    "playmaking": 70,
+    "rebounding": 95,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1986,
+    "careerEndYear": 1995,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1991_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-den-spencer-haywood-11",
+    "name": "Spencer Haywood",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1969-70",
+    "decadeTags": [
+      "60s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 86,
+    "offense": 87,
+    "defense": 81,
+    "shooting": 86,
+    "playmaking": 69,
+    "rebounding": 98,
+    "athleticism": 88,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1969,
+    "careerEndYear": 1983,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1970_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-den-george-mcginnis-12",
+    "name": "George McGinnis",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1978-79",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 80,
+    "playmaking": 74,
+    "rebounding": 96,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1971,
+    "careerEndYear": 1982,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1979_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-den-allen-iverson-13",
+    "name": "Allen Iverson",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 74,
+    "shooting": 83,
+    "playmaking": 85,
+    "rebounding": 70,
+    "athleticism": 87,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1996,
+    "careerEndYear": 2010,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2008_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-den-kiki-vandeweghe-14",
+    "name": "Kiki Vandeweghe",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 87,
+    "defense": 73,
+    "shooting": 85,
+    "playmaking": 72,
+    "rebounding": 76,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1980,
+    "careerEndYear": 1993,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1984_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-det-cade-cunningham-11",
+    "name": "Cade Cunningham",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 75,
+    "shooting": 83,
+    "playmaking": 91,
+    "rebounding": 80,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-det-jerry-stackhouse-12",
+    "name": "Jerry Stackhouse",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "overall": 82,
+    "offense": 88,
+    "defense": 74,
+    "shooting": 85,
+    "playmaking": 78,
+    "rebounding": 73,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1995,
+    "careerEndYear": 2013,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2001_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-det-bailey-howell-13",
+    "name": "Bailey Howell",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1960-61",
+    "decadeTags": [
+      "60s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 77,
+    "shooting": 81,
+    "playmaking": 70,
+    "rebounding": 98,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1959,
+    "careerEndYear": 1971,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1961_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-det-blake-griffin-14",
+    "name": "Blake Griffin",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2018-19",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 81,
+    "offense": 84,
+    "defense": 74,
+    "shooting": 81,
+    "playmaking": 79,
+    "rebounding": 84,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2010,
+    "careerEndYear": 2023,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2019_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-gsw-kevin-durant-11",
+    "name": "Kevin Durant",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 86,
+    "defense": 78,
+    "shooting": 83,
+    "playmaking": 79,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2007,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2018_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-gsw-jerry-lucas-12",
+    "name": "Jerry Lucas",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 81,
+    "offense": 80,
+    "defense": 78,
+    "shooting": 77,
+    "playmaking": 74,
+    "rebounding": 98,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1963,
+    "careerEndYear": 1974,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1971_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-gsw-purvis-short-13",
+    "name": "Purvis Short",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1984-85",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 74,
+    "shooting": 84,
+    "playmaking": 72,
+    "rebounding": 77,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1978,
+    "careerEndYear": 1990,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1985_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-gsw-sleepy-floyd-14",
+    "name": "Sleepy Floyd",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 74,
+    "shooting": 79,
+    "playmaking": 94,
+    "rebounding": 77,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1982,
+    "careerEndYear": 1995,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1988_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-hou-elvin-hayes-11",
+    "name": "Elvin Hayes",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 86,
+    "defense": 78,
+    "shooting": 85,
+    "playmaking": 69,
+    "rebounding": 98,
+    "athleticism": 88,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1968,
+    "careerEndYear": 1984,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1971_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-hou-russell-westbrook-12",
+    "name": "Russell Westbrook",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "2019-20",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SF"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 77,
+    "shooting": 83,
+    "playmaking": 84,
+    "rebounding": 85,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2008,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2020_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-hou-charles-barkley-13",
+    "name": "Charles Barkley",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 80,
+    "defense": 81,
+    "shooting": 77,
+    "playmaking": 77,
+    "rebounding": 98,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1984,
+    "careerEndYear": 2000,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1997_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-ind-billy-knight-11",
+    "name": "Billy Knight",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 78,
+    "shooting": 84,
+    "playmaking": 74,
+    "rebounding": 92,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1974,
+    "careerEndYear": 1985,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1976_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-ind-domantas-sabonis-12",
+    "name": "Domantas Sabonis",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 78,
+    "playmaking": 83,
+    "rebounding": 98,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-ind-tyrese-haliburton-13",
+    "name": "Tyrese Haliburton",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 80,
+    "offense": 83,
+    "defense": 74,
+    "shooting": 78,
+    "playmaking": 97,
+    "rebounding": 73,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2020,
+    "careerEndYear": 2025,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lac-james-harden-11",
+    "name": "James Harden",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 86,
+    "defense": 74,
+    "shooting": 82,
+    "playmaking": 88,
+    "rebounding": 76,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2009,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lac-paul-george-12",
+    "name": "Paul George",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 84,
+    "defense": 78,
+    "shooting": 81,
+    "playmaking": 80,
+    "rebounding": 82,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2010,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lac-terry-cummings-13",
+    "name": "Terry Cummings",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 82,
+    "shooting": 81,
+    "playmaking": 70,
+    "rebounding": 94,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1982,
+    "careerEndYear": 2000,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1983_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lal-luka-don-i-11",
+    "name": "Luka Dončić",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 86,
+    "offense": 92,
+    "defense": 77,
+    "shooting": 88,
+    "playmaking": 89,
+    "rebounding": 85,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lal-lebron-james-12",
+    "name": "LeBron James",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 89,
+    "defense": 79,
+    "shooting": 86,
+    "playmaking": 82,
+    "rebounding": 86,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2003,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-lal-anthony-davis-13",
+    "name": "Anthony Davis",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 85,
+    "shooting": 82,
+    "playmaking": 73,
+    "rebounding": 98,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2012,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mem-shareef-abdur-rahim-11",
+    "name": "Shareef Abdur-Rahim",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 78,
+    "shooting": 80,
+    "playmaking": 73,
+    "rebounding": 84,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1996,
+    "careerEndYear": 2008,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1999_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mem-jaren-jackson-jr-12",
+    "name": "Jaren Jackson Jr.",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 82,
+    "defense": 78,
+    "shooting": 80,
+    "playmaking": 69,
+    "rebounding": 78,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1989,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mem-tyreke-evans-13",
+    "name": "Tyreke Evans",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG",
+      "SF"
+    ],
+    "overall": 78,
+    "offense": 80,
+    "defense": 73,
+    "shooting": 78,
+    "playmaking": 79,
+    "rebounding": 77,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2009,
+    "careerEndYear": 2019,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2018_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mia-bam-adebayo-11",
+    "name": "Bam Adebayo",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 80,
+    "defense": 79,
+    "shooting": 77,
+    "playmaking": 74,
+    "rebounding": 93,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mia-lamar-odom-12",
+    "name": "Lamar Odom",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 79,
+    "offense": 78,
+    "defense": 79,
+    "shooting": 76,
+    "playmaking": 75,
+    "rebounding": 91,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1999,
+    "careerEndYear": 2013,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2004_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mia-shawn-marion-13",
+    "name": "Shawn Marion",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 78,
+    "offense": 76,
+    "defense": 82,
+    "shooting": 74,
+    "playmaking": 70,
+    "rebounding": 96,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1999,
+    "careerEndYear": 2015,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2008_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mil-vin-baker-11",
+    "name": "Vin Baker",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 79,
+    "playmaking": 71,
+    "rebounding": 93,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1993,
+    "careerEndYear": 2006,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1997_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mil-michael-redd-12",
+    "name": "Michael Redd",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 85,
+    "defense": 72,
+    "shooting": 83,
+    "playmaking": 69,
+    "rebounding": 72,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2000,
+    "careerEndYear": 2012,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2007_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-mil-jrue-holiday-13",
+    "name": "Jrue Holiday",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "2022-23",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 81,
+    "defense": 74,
+    "shooting": 77,
+    "playmaking": 86,
+    "rebounding": 77,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2009,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2023_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-min-kevin-love-11",
+    "name": "Kevin Love",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 79,
+    "shooting": 83,
+    "playmaking": 76,
+    "rebounding": 98,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2008,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2014_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-min-julius-randle-12",
+    "name": "Julius Randle",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 79,
+    "offense": 82,
+    "defense": 74,
+    "shooting": 79,
+    "playmaking": 78,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-min-tony-campbell-13",
+    "name": "Tony Campbell",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "1989-90",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "overall": 79,
+    "offense": 82,
+    "defense": 75,
+    "shooting": 80,
+    "playmaking": 70,
+    "rebounding": 78,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1984,
+    "careerEndYear": 1995,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1990_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nop-julius-randle-11",
+    "name": "Julius Randle",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2018-19",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 79,
+    "offense": 81,
+    "defense": 76,
+    "shooting": 79,
+    "playmaking": 72,
+    "rebounding": 88,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2019_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nop-dejounte-murray-12",
+    "name": "Dejounte Murray",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 80,
+    "defense": 77,
+    "shooting": 76,
+    "playmaking": 86,
+    "rebounding": 81,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nop-tyreke-evans-13",
+    "name": "Tyreke Evans",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 78,
+    "offense": 79,
+    "defense": 75,
+    "shooting": 75,
+    "playmaking": 83,
+    "rebounding": 77,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2009,
+    "careerEndYear": 2019,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2015_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nyk-bob-mcadoo-11",
+    "name": "Bob McAdoo",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1977-78",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 84,
+    "shooting": 83,
+    "playmaking": 74,
+    "rebounding": 98,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1972,
+    "careerEndYear": 1986,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1978_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nyk-karl-anthony-towns-12",
+    "name": "Karl-Anthony Towns",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 72,
+    "rebounding": 98,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2015,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-nyk-julius-randle-13",
+    "name": "Julius Randle",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 82,
+    "offense": 84,
+    "defense": 77,
+    "shooting": 81,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2014,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-okc-shai-gilgeous-alexander-11",
+    "name": "Shai Gilgeous-Alexander",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 84,
+    "offense": 91,
+    "defense": 77,
+    "shooting": 88,
+    "playmaking": 82,
+    "rebounding": 76,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2018,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-okc-paul-george-12",
+    "name": "Paul George",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "2018-19",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 86,
+    "defense": 79,
+    "shooting": 84,
+    "playmaking": 75,
+    "rebounding": 86,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2010,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2019_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-okc-xavier-mcdaniel-13",
+    "name": "Xavier McDaniel",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1986-87",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 78,
+    "shooting": 80,
+    "playmaking": 70,
+    "rebounding": 88,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1985,
+    "careerEndYear": 1998,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1987_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-orl-steve-francis-11",
+    "name": "Steve Francis",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 75,
+    "shooting": 79,
+    "playmaking": 84,
+    "rebounding": 79,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1999,
+    "careerEndYear": 2008,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2005_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-orl-anfernee-hardaway-12",
+    "name": "Anfernee Hardaway",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG",
+      "SF"
+    ],
+    "overall": 80,
+    "offense": 83,
+    "defense": 76,
+    "shooting": 79,
+    "playmaking": 85,
+    "rebounding": 74,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1993,
+    "careerEndYear": 2008,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1996_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-orl-hedo-t-rko-lu-13",
+    "name": "Hedo Türkoğlu",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 78,
+    "offense": 80,
+    "defense": 73,
+    "shooting": 78,
+    "playmaking": 78,
+    "rebounding": 79,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2000,
+    "careerEndYear": 2015,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2008_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phi-george-mcginnis-11",
+    "name": "George McGinnis",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 84,
+    "shooting": 80,
+    "playmaking": 77,
+    "rebounding": 98,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1971,
+    "careerEndYear": 1982,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1976_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phi-tyrese-maxey-12",
+    "name": "Tyrese Maxey",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2025-26",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 82,
+    "offense": 88,
+    "defense": 76,
+    "shooting": 84,
+    "playmaking": 83,
+    "rebounding": 74,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2020,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2026_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phi-james-harden-13",
+    "name": "James Harden",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 75,
+    "shooting": 79,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2009,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phx-kevin-durant-11",
+    "name": "Kevin Durant",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "SG"
+    ],
+    "overall": 82,
+    "offense": 86,
+    "defense": 77,
+    "shooting": 83,
+    "playmaking": 78,
+    "rebounding": 81,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2007,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phx-connie-hawkins-12",
+    "name": "Connie Hawkins",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1969-70",
+    "decadeTags": [
+      "60s"
+    ],
+    "positions": [
+      "SF",
+      "PF",
+      "C"
+    ],
+    "overall": 81,
+    "offense": 84,
+    "defense": 73,
+    "shooting": 81,
+    "playmaking": 77,
+    "rebounding": 93,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1967,
+    "careerEndYear": 1976,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1970_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-phx-larry-nance-13",
+    "name": "Larry Nance",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1986-87",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 81,
+    "offense": 82,
+    "defense": 82,
+    "shooting": 80,
+    "playmaking": 73,
+    "rebounding": 88,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 1981,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1987_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-por-mychal-thompson-11",
+    "name": "Mychal Thompson",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1981-82",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 81,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 79,
+    "playmaking": 75,
+    "rebounding": 97,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1978,
+    "careerEndYear": 1991,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1982_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-por-zach-randolph-12",
+    "name": "Zach Randolph",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 76,
+    "shooting": 81,
+    "playmaking": 69,
+    "rebounding": 92,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2001,
+    "careerEndYear": 2018,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2007_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-por-maurice-lucas-13",
+    "name": "Maurice Lucas",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 80,
+    "defense": 80,
+    "shooting": 78,
+    "playmaking": 71,
+    "rebounding": 96,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1974,
+    "careerEndYear": 1988,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1977_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sac-jack-twyman-11",
+    "name": "Jack Twyman",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1959-60",
+    "decadeTags": [
+      "50s"
+    ],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 89,
+    "defense": 72,
+    "shooting": 86,
+    "playmaking": 73,
+    "rebounding": 89,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1955,
+    "careerEndYear": 1966,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1960_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sac-domantas-sabonis-12",
+    "name": "Domantas Sabonis",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 78,
+    "playmaking": 88,
+    "rebounding": 98,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sac-otis-thorpe-13",
+    "name": "Otis Thorpe",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 80,
+    "offense": 81,
+    "defense": 78,
+    "shooting": 79,
+    "playmaking": 72,
+    "rebounding": 93,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1984,
+    "careerEndYear": 2001,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1988_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sas-dejounte-murray-11",
+    "name": "Dejounte Murray",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 79,
+    "shooting": 79,
+    "playmaking": 91,
+    "rebounding": 87,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2016,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sas-larry-kenon-12",
+    "name": "Larry Kenon",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 81,
+    "offense": 81,
+    "defense": 83,
+    "shooting": 79,
+    "playmaking": 71,
+    "rebounding": 96,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1973,
+    "careerEndYear": 1983,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1977_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-sas-rich-jones-13",
+    "name": "Rich Jones",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 82,
+    "defense": 73,
+    "shooting": 80,
+    "playmaking": 75,
+    "rebounding": 92,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1969,
+    "careerEndYear": 1977,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1973_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-tor-scottie-barnes-11",
+    "name": "Scottie Barnes",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2023-24",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SG",
+      "SF",
+      "PF"
+    ],
+    "overall": 80,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 78,
+    "playmaking": 82,
+    "rebounding": 86,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2021,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-tor-rj-barrett-12",
+    "name": "RJ Barrett",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2024-25",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 82,
+    "defense": 73,
+    "shooting": 79,
+    "playmaking": 79,
+    "rebounding": 81,
+    "athleticism": 82,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2019,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-tor-fred-vanvleet-13",
+    "name": "Fred VanVleet",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2021-22",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 79,
+    "offense": 82,
+    "defense": 75,
+    "shooting": 78,
+    "playmaking": 83,
+    "rebounding": 75,
+    "athleticism": 85,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 2016,
+    "careerEndYear": 2025,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2022_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-uta-spencer-haywood-11",
+    "name": "Spencer Haywood",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1978-79",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 69,
+    "rebounding": 91,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1969,
+    "careerEndYear": 1983,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1979_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-uta-lauri-markkanen-12",
+    "name": "Lauri Markkanen",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "2022-23",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "overall": 80,
+    "offense": 84,
+    "defense": 75,
+    "shooting": 82,
+    "playmaking": 68,
+    "rebounding": 88,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2023_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-uta-donovan-mitchell-13",
+    "name": "Donovan Mitchell",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 80,
+    "offense": 86,
+    "defense": 72,
+    "shooting": 83,
+    "playmaking": 79,
+    "rebounding": 75,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2017,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-was-russell-westbrook-11",
+    "name": "Russell Westbrook",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "2020-21",
+    "decadeTags": [
+      "20s"
+    ],
+    "positions": [
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 80,
+    "shooting": 80,
+    "playmaking": 97,
+    "rebounding": 97,
+    "athleticism": 84,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "active",
+    "careerStartYear": 2008,
+    "careerEndYear": null,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_2021_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-was-jeff-ruland-12",
+    "name": "Jeff Ruland",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 80,
+    "playmaking": 74,
+    "rebounding": 98,
+    "athleticism": 86,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1981,
+    "careerEndYear": 1993,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1984_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "alltime-was-moses-malone-13",
+    "name": "Moses Malone",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1986-87",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 81,
+    "offense": 83,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 67,
+    "rebounding": 96,
+    "athleticism": 83,
+    "ratingMethod": "statistical-formula-manual-review",
+    "ratingConfidence": "low",
+    "active": true,
+    "playingStatus": "historical",
+    "careerStartYear": 1974,
+    "careerEndYear": 1995,
+    "factVerification": {
+      "status": "verified-secondary",
+      "sourceType": "secondary-statistical",
+      "source": "https://www.basketball-reference.com/leagues/NBA_1987_per_game.html",
+      "verifiedFields": [
+        "name",
+        "teamId",
+        "season",
+        "positions"
+      ],
+      "notes": []
+    }
   }
 ]

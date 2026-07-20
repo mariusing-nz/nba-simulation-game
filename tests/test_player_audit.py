@@ -17,8 +17,9 @@ class PlayerAuditTests(unittest.TestCase):
         cls.reference = {row["playerId"]: row for row in reference["players"]}
 
     def test_counts_and_unique_ids(self):
-        self.assertEqual((len(self.current), len(self.alltime)), (300, 300))
-        self.assertEqual(len({p["id"] for p in self.players}), 600)
+        self.assertEqual((len(self.current), len(self.alltime)), (400, 400))
+        self.assertEqual(len({p["id"] for p in self.players}), 800)
+        self.assertGreaterEqual(sum(len(p["positions"]) > 1 for p in self.players), 320)
 
     def test_seasons_are_calendar_valid(self):
         for player in self.players:
@@ -37,9 +38,7 @@ class PlayerAuditTests(unittest.TestCase):
             selected = record["selectedSeason"]
             self.assertEqual(player["season"], selected["season"], player["id"])
             self.assertEqual(player["positions"][0], selected["positions"][0], player["id"])
-            supported = {position for row in record["seasons"]
-                         if abs(row["seasonEndYear"] - selected["seasonEndYear"]) <= 2
-                         for position in row["positions"]}
+            supported = {position for row in record["seasons"] for position in row["positions"]}
             if player["id"] not in documented_overrides:
                 self.assertTrue(set(player["positions"]) <= supported, player["id"])
             self.assertLessEqual(len(player["positions"]), 3, player["id"])

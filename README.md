@@ -65,7 +65,7 @@ python -m unittest tests/test_player_audit.py
 - `index.html` – semantic application shell
 - `css/` – reset, tokens, layout, components, and responsive rules
 - `js/` – isolated state, draft and lineup validation/UI, ratings, scheduling, regular-season simulation, playoff qualification/bracket/series/UI/results, audio, and persistence modules
-- `data/` – 30 franchises and 600 local player records (300 current and 300 all-time)
+- `data/` – 30 franchises and 800 local player records (400 current and 400 all-time)
 - `scripts/` – data validation and position-aware rating generation
 - `tests/` – package-free browser test runner
 
@@ -118,7 +118,7 @@ IDs must be globally unique. Ratings are custom—not official game ratings—an
 
 ### Fact audit and provenance
 
-The production files contain 300 current and 300 all-time records. `scripts/audit-player-data.py` is report-only by default; `--apply` archives the pre-audit files, applies only unambiguous season-table corrections, writes `data/player-season-reference.json`, and regenerates the reports in `reports/`. The reference covers 1947–2026 NBA/BAA records and relevant ABA predecessor seasons. Current means 2025–26 regular-season participation. A player absent for the full season or listed for a different team is retained only as `manual-review-required`, never silently declared verified.
+The production files contain 400 current and 400 all-time records. At least 40% of the combined database has a secondary eligible position supported by recorded career positions. `scripts/audit-player-data.py` is report-only by default; `--apply` archives the pre-audit files, applies only unambiguous season-table corrections, writes `data/player-season-reference.json`, and regenerates the reports in `reports/`. The reference covers 1947–2026 NBA/BAA records and relevant ABA predecessor seasons. Current means 2025–26 regular-season participation. A player absent for the full season or listed for a different team is retained only as `manual-review-required`, never silently declared verified.
 
 The all-time representative season is the highest season within that franchise lineage by a documented per-game productivity sum (points + rebounds + assists + steals + blocks), then minutes, games, and recency. This is a reproducible representative-season rule, not a claim that the selected year is an official “peak season.” Franchise lineage is explicit in the audit script. Examples include Seattle → Oklahoma City, New Jersey → Brooklyn, and Minneapolis → Los Angeles.
 
@@ -126,11 +126,11 @@ Source hierarchy: official NBA statistics are preferred; Basketball Reference se
 
 ## Position and lineup rules
 
-Every custom team always finishes with exactly one PG, SG, SF, PF, and C, but those slots may be filled in any order. For each pick, spin a franchise and era, then view all matching available players regardless of position. Drafting is a two-click action: click or tap anywhere on a player card, then click a highlighted eligible empty position in the right-hand lineup. The position click immediately places the player and begins the next pick. There is no separate Select button, Confirm Pick button, pop-up, or confirmation dialog. Search, alphabetical/overall sorting, and an optional position filter remain available.
+Every custom team always finishes with exactly one PG, SG, SF, PF, and C, but those slots may be filled in any order. For each pick, spin a franchise and era, then view the complete available-player list ordered by overall and player name. Drafting is a two-click action: click or tap anywhere on a player card, then click a highlighted eligible empty position in the right-hand lineup. The position click immediately places the player and begins the next pick. There is no separate Select button, Confirm Pick button, pop-up, or confirmation dialog.
 
 Position arrays contain the primary position first and credible secondary positions where the represented season supports them. Many combo guards, swingmen, forwards, and mobile bigs can fill two positions, while traditional specialists remain restricted to one. A small number of unusual players have three positions. Eligibility comes only from the stored position list and may differ between franchise-season versions of the same player. The focused audit and every change are recorded in `reports/player-position-updates.md`.
 
-Players with no currently open eligible position remain visible but unavailable until the lineup is rearranged. While choosing a new player, occupied and ineligible slots are dimmed and cannot receive that player. Clicking an invalid slot leaves the selection intact. After placement, drafted players can still be dragged to an eligible empty slot or dropped onto an occupied slot to request an atomic swap. The swap succeeds only when both players are eligible for their new positions, and an invalid swap changes neither player. Native position selectors and Move controls provide the same behavior for keyboard, touch, and assistive technology.
+Players with no currently open eligible position remain visible but unavailable until the lineup is rearranged. While choosing a new player, occupied and ineligible slots are dimmed and cannot receive that player. Clicking an invalid slot leaves the selection intact. After placement, drafted players are rearranged by dragging them to an eligible empty slot or dropping them onto an occupied slot to request an atomic swap. The swap succeeds only when both players are eligible for their new positions, and an invalid swap changes neither player.
 
 Roster entries store `draftPickNumber`, `initialAssignedPosition`, and the current `assignedPosition` separately. Selection order never affects ratings; only the final assigned lineup does. The draft completes only after exactly five unique players legally occupy PG, SG, SF, PF, and C. Version 1 has no bench players.
 
@@ -156,7 +156,7 @@ The browser runner covers qualification, 1–8/4–5/2–7/3–6 pairings, fixed
 
 ## Lineup testing and accessibility
 
-The test runner covers unrestricted pick orders, card selection and confirmation, one-to-three-position validation, all-position pools, filtering, disabled no-fit players, five-position validation, missing and duplicate positions, valid and invalid atomic swaps, empty-slot moves, separate initial/assigned positions, rating recalculation, save migration, and lineup locking. Available-player cards are semantic buttons for mouse, keyboard, and touch use; only drafted lineup entries are draggable. Native position selectors and buttons provide the same lineup-movement workflow for keyboard-only, touch, and assistive-technology users, with results announced through an `aria-live` status region.
+The test runner covers unrestricted pick orders, card selection and placement, one-to-three-position validation, all-position pools, disabled no-fit players, five-position validation, missing and duplicate positions, valid and invalid atomic swaps, empty-slot moves, separate initial/assigned positions, rating recalculation, save migration, and lineup locking. Available-player cards are semantic buttons; drafted lineup entries are rearranged through drag-and-drop, with results announced through an `aria-live` status region.
 
 ## Version 1 limitations
 
