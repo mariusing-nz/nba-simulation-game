@@ -1,4 +1,4 @@
-import{lineupSnapshot,moveOrSwap,resetToDraftedPositions,restoreSnapshot,validateDraftArrangement,validateLineup,isLineupEditable}from'../js/lineup.js?v=20260721-minor-tweak-1';import{calculateTeamRatings}from'../js/ratings.js?v=20260721-minor-tweak-1';import{draftRosterView,playerDraftView,selectedFranchiseBanner}from'../js/draft-board.js?v=20260721-minor-tweak-1';import{validatePlayerPositions}from'../js/data-validator.js?v=20260721-minor-tweak-1';
+import{lineupSnapshot,moveOrSwap,resetToDraftedPositions,restoreSnapshot,validateDraftArrangement,validateLineup,isLineupEditable}from'../js/lineup.js?v=20260721-minor-tweak-2';import{calculateTeamRatings}from'../js/ratings.js?v=20260721-minor-tweak-2';import{draftRosterView,playerDraftView}from'../js/draft-board.js?v=20260721-minor-tweak-2';import{wheelView}from'../js/wheel.js?v=20260721-minor-tweak-2';import{validatePlayerPositions}from'../js/data-validator.js?v=20260721-minor-tweak-2';
 
 const player=(id,name,positions,ratings={})=>({id,name,teamId:'T',era:'all-time',season:'2000-01',positions,overall:ratings.overall||85,offense:ratings.offense||85,defense:ratings.defense||85,shooting:ratings.shooting||85,playmaking:ratings.playmaking||85,rebounding:ratings.rebounding||85,athleticism:ratings.athleticism||85,active:true});
 const makeRoster=()=>[
@@ -47,8 +47,8 @@ lineupTests.push(
  ['Drafted lineup entries remain draggable',()=>draftRosterView({roster:makeRoster().slice(0,1)},null).includes('draggable="true"')]
 );
 lineupTests.push(
- ['Era stage prominently identifies the selected franchise',()=>{const html=selectedFranchiseBanner('era','Boston Celtics');return html.includes('selected-franchise-banner')&&html.includes('Boston Celtics')&&html.includes('Choose an Era')}],
- ['Franchise stage does not show the selected-franchise banner',()=>selectedFranchiseBanner('franchise','Boston Celtics')===''],
+ ['Era wheel contains the selected franchise banner above its heading',()=>{const html=wheelView({title:'Era wheel',subtitle:'Choose an Era',items:[],contextLabel:'Boston Celtics'});return html.indexOf('selected-franchise-banner')<html.indexOf('Era wheel')&&html.includes('Boston Celtics')}],
+ ['Franchise wheel omits the selected-franchise banner',()=>!wheelView({title:'Franchise wheel',subtitle:'Spin all 30 franchises',items:[]}).includes('selected-franchise-banner')],
  ['Empty slots omit unnecessary availability helper text',()=>{const html=draftRosterView({roster:[]},null);return html.includes('Empty')&&!html.includes('Available for an eligible player')}],
  ['Player list has no search filter sort or clear controls',()=>{const p={...player('card2','Card Two',['SG']),eligibleOpenPositions:['SG']},html=playerDraftView({players:[p],selectedId:null,eraName:'Current',franchiseName:'Boston'});return !html.includes('type="search"')&&!html.includes('player-position-filter')&&!html.includes('player-sort')&&!html.includes('Clear filters')&&html.includes('1 available')}],
  ['Player list preserves supplied natural order',()=>{const a={...player('first','First',['PG']),eligibleOpenPositions:['PG']},b={...player('second','Second',['SG']),eligibleOpenPositions:['SG']},html=playerDraftView({players:[a,b],selectedId:null,eraName:'Current',franchiseName:'Boston'});return html.indexOf('First')<html.indexOf('Second')}]
