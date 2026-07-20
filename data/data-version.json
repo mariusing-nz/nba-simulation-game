@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.1.0",
+  "datasetVersion": "player-audit-1",
+  "currentSeasonLabel": "2025-26",
+  "snapshotDefinition": "2025-26 regular-season participation; unavailable/injured roster records are explicitly marked manual-review-required",
+  "lineagePolicy": "Continuous current-franchise history using the explicit abbreviation map in scripts/audit-player-data.py",
+  "lastUpdated": "2026-07-21",
+  "ratingScale": {
+    "minimum": 40,
+    "maximum": 99
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "policy": "Every future override must include source, fields, oldValue, newValue, and reason.",
+  "aliases": {
+    "Penny Hardaway": "Anfernee Hardaway",
+    "Nate Archibald": "Tiny Archibald",
+    "Ron Artest": "Metta World Peace"
+  },
+  "aliasEvidence": [
+    {
+      "displayName": "Penny Hardaway",
+      "canonicalName": "Anfernee Hardaway",
+      "source": "https://www.basketball-reference.com/players/h/hardaan01.html",
+      "reason": "Commonly used name differs from statistical-table name."
+    },
+    {
+      "displayName": "Nate Archibald",
+      "canonicalName": "Tiny Archibald",
+      "source": "https://www.basketball-reference.com/players/a/architi01.html",
+      "reason": "Commonly used name differs from statistical-table name."
+    },
+    {
+      "displayName": "Ron Artest",
+      "canonicalName": "Metta World Peace",
+      "source": "https://www.basketball-reference.com/players/a/artesro01.html",
+      "reason": "Name change; both names identify the same player record."
+    }
+  ],
+  "overrides": {}
+}

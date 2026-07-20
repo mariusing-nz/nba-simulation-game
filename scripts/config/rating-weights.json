@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "description": "Position- and era-cohort rating model configuration. No audited ratings are generated until the raw-stat source is supplied.",
+  "overallWeights": {
+    "offense": 0.28,
+    "defense": 0.20,
+    "shooting": 0.15,
+    "playmaking": 0.15,
+    "rebounding": 0.12,
+    "athleticism": 0.10
+  },
+  "zScoreCenter": 75,
+  "zScoreScale": 9,
+  "minimum": 40,
+  "maximum": 99,
+  "cohorts": ["season", "position-group"],
+  "missingStatPolicy": "lower confidence; never impute an unsupported value"
+}

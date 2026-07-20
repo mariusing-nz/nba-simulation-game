@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080c16">
+  <title>Basketball Legends</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css?v=20260721-two-click-1">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to game</a>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Basketball Legends home"><span class="brand-ball" aria-hidden="true">●</span><span>Basketball<br><b>Legends</b></span></a>
+    <div class="topbar-actions"><span id="save-status" class="save-status" role="status">Not saved</span><button id="sound-toggle" class="icon-button" type="button" aria-label="Toggle sound">Sound on</button><button id="restart-button" class="icon-button" type="button">New game</button></div>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <div id="announcer" class="sr-only" aria-live="polite"></div>
+  <div id="error-panel" class="error-panel" role="alert" hidden></div>
+  <script type="module" src="js/app.js?v=20260721-two-click-2"></script>
+</body>
+</html>

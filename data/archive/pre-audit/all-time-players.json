@@ -1,0 +1,7449 @@
+[
+  {
+    "id": "alltime-atl-trae-young-1",
+    "name": "Trae Young",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 92,
+    "shooting": 82,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-pete-maravich-2",
+    "name": "Pete Maravich",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 93,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-dominique-wilkins-3",
+    "name": "Dominique Wilkins",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1985-86",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 90,
+    "shooting": 92,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-bob-pettit-4",
+    "name": "Bob Pettit",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 91,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-dikembe-mutombo-5",
+    "name": "Dikembe Mutombo",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 82,
+    "shooting": 89,
+    "playmaking": 84,
+    "rebounding": 96,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-mookie-blaylock-6",
+    "name": "Mookie Blaylock",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 79,
+    "shooting": 86,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-lou-hudson-7",
+    "name": "Lou Hudson",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 89,
+    "shooting": 81,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-joe-johnson-8",
+    "name": "Joe Johnson",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 87,
+    "shooting": 82,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-josh-smith-9",
+    "name": "Josh Smith",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 85,
+    "shooting": 85,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-atl-tree-rollins-10",
+    "name": "Tree Rollins",
+    "teamId": "ATL",
+    "era": "all-time",
+    "season": "1984-85",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-bob-cousy-1",
+    "name": "Bob Cousy",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 82,
+    "playmaking": 97,
+    "rebounding": 84,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-john-havlicek-2",
+    "name": "John Havlicek",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "60s",
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 93,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-larry-bird-3",
+    "name": "Larry Bird",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s",
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 96,
+    "shooting": 99,
+    "playmaking": 96,
+    "rebounding": 94,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-kevin-garnett-4",
+    "name": "Kevin Garnett",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 86,
+    "shooting": 94,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-bill-russell-5",
+    "name": "Bill Russell",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 96,
+    "defense": 94,
+    "shooting": 93,
+    "playmaking": 97,
+    "rebounding": 99,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-rajon-rondo-6",
+    "name": "Rajon Rondo",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 86,
+    "shooting": 83,
+    "playmaking": 91,
+    "rebounding": 78,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-sam-jones-7",
+    "name": "Sam Jones",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 80,
+    "shooting": 85,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-paul-pierce-8",
+    "name": "Paul Pierce",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 79,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-kevin-mchale-9",
+    "name": "Kevin McHale",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 79,
+    "shooting": 87,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bos-robert-parish-10",
+    "name": "Robert Parish",
+    "teamId": "BOS",
+    "era": "all-time",
+    "season": "1981-82",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 78,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-jason-kidd-1",
+    "name": "Jason Kidd",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 88,
+    "shooting": 89,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-vince-carter-2",
+    "name": "Vince Carter",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 92,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-julius-erving-3",
+    "name": "Julius Erving",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s",
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 91,
+    "shooting": 94,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-buck-williams-4",
+    "name": "Buck Williams",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 90,
+    "shooting": 87,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-brook-lopez-5",
+    "name": "Brook Lopez",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 91,
+    "shooting": 89,
+    "playmaking": 86,
+    "rebounding": 98,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-kenny-anderson-6",
+    "name": "Kenny Anderson",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 81,
+    "shooting": 85,
+    "playmaking": 95,
+    "rebounding": 82,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-drazen-petrovic-7",
+    "name": "Drazen Petrovic",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 87,
+    "shooting": 82,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-richard-jefferson-8",
+    "name": "Richard Jefferson",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 79,
+    "shooting": 88,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-derrick-coleman-9",
+    "name": "Derrick Coleman",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 82,
+    "shooting": 88,
+    "playmaking": 82,
+    "rebounding": 90,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-bkn-billy-paultz-10",
+    "name": "Billy Paultz",
+    "teamId": "BKN",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 81,
+    "shooting": 84,
+    "playmaking": 83,
+    "rebounding": 95,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-kemba-walker-1",
+    "name": "Kemba Walker",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 86,
+    "shooting": 86,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-dell-curry-2",
+    "name": "Dell Curry",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 94,
+    "shooting": 93,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-glen-rice-3",
+    "name": "Glen Rice",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 91,
+    "shooting": 95,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-larry-johnson-4",
+    "name": "Larry Johnson",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 85,
+    "shooting": 93,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-alonzo-mourning-5",
+    "name": "Alonzo Mourning",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 91,
+    "shooting": 88,
+    "playmaking": 84,
+    "rebounding": 96,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-baron-davis-6",
+    "name": "Baron Davis",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 79,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-kendall-gill-7",
+    "name": "Kendall Gill",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 79,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-jamal-mashburn-8",
+    "name": "Jamal Mashburn",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 79,
+    "shooting": 84,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-gerald-wallace-9",
+    "name": "Gerald Wallace",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 80,
+    "playmaking": 84,
+    "rebounding": 92,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cha-emeka-okafor-10",
+    "name": "Emeka Okafor",
+    "teamId": "CHA",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 79,
+    "playmaking": 83,
+    "rebounding": 95,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-derrick-rose-1",
+    "name": "Derrick Rose",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 85,
+    "shooting": 91,
+    "playmaking": 97,
+    "rebounding": 84,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-michael-jordan-2",
+    "name": "Michael Jordan",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1985-86",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 99,
+    "shooting": 98,
+    "playmaking": 95,
+    "rebounding": 93,
+    "athleticism": 95,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-scottie-pippen-3",
+    "name": "Scottie Pippen",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 87,
+    "shooting": 92,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-dennis-rodman-4",
+    "name": "Dennis Rodman",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 88,
+    "playmaking": 87,
+    "rebounding": 95,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-artis-gilmore-5",
+    "name": "Artis Gilmore",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 90,
+    "shooting": 90,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-norm-van-lier-6",
+    "name": "Norm Van Lier",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 86,
+    "shooting": 89,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-jerry-sloan-7",
+    "name": "Jerry Sloan",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 81,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-luol-deng-8",
+    "name": "Luol Deng",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 84,
+    "shooting": 89,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-horace-grant-9",
+    "name": "Horace Grant",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 84,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-chi-joakim-noah-10",
+    "name": "Joakim Noah",
+    "teamId": "CHI",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 82,
+    "shooting": 78,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-mark-price-1",
+    "name": "Mark Price",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 88,
+    "shooting": 89,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-kyrie-irving-2",
+    "name": "Kyrie Irving",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 94,
+    "shooting": 88,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-lebron-james-3",
+    "name": "LeBron James",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 99,
+    "shooting": 96,
+    "playmaking": 97,
+    "rebounding": 95,
+    "athleticism": 97,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-kevin-love-4",
+    "name": "Kevin Love",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 87,
+    "defense": 84,
+    "shooting": 84,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-brad-daugherty-5",
+    "name": "Brad Daugherty",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 85,
+    "shooting": 83,
+    "playmaking": 86,
+    "rebounding": 98,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-terrell-brandon-6",
+    "name": "Terrell Brandon",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 88,
+    "shooting": 82,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-austin-carr-7",
+    "name": "Austin Carr",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 82,
+    "shooting": 81,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-campy-russell-8",
+    "name": "Campy Russell",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 82,
+    "shooting": 79,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-larry-nance-9",
+    "name": "Larry Nance",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 88,
+    "shooting": 80,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-cle-zydrunas-ilgauskas-10",
+    "name": "Zydrunas Ilgauskas",
+    "teamId": "CLE",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 88,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-jason-kidd-1",
+    "name": "Jason Kidd",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 85,
+    "shooting": 92,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-rolando-blackman-2",
+    "name": "Rolando Blackman",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1981-82",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 85,
+    "shooting": 94,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-mark-aguirre-3",
+    "name": "Mark Aguirre",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-dirk-nowitzki-4",
+    "name": "Dirk Nowitzki",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 87,
+    "defense": 87,
+    "shooting": 85,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-tyson-chandler-5",
+    "name": "Tyson Chandler",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 92,
+    "shooting": 91,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-steve-nash-6",
+    "name": "Steve Nash",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 88,
+    "shooting": 87,
+    "playmaking": 95,
+    "rebounding": 82,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-michael-finley-7",
+    "name": "Michael Finley",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 88,
+    "shooting": 78,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-josh-howard-8",
+    "name": "Josh Howard",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 80,
+    "shooting": 88,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-shawn-marion-9",
+    "name": "Shawn Marion",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 83,
+    "shooting": 80,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-dal-james-donaldson-10",
+    "name": "James Donaldson",
+    "teamId": "DAL",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 82,
+    "shooting": 79,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-fat-lever-1",
+    "name": "Fat Lever",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 88,
+    "shooting": 82,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-david-thompson-2",
+    "name": "David Thompson",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1977-78",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 88,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-alex-english-3",
+    "name": "Alex English",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-dan-issel-4",
+    "name": "Dan Issel",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 89,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-nikola-jokic-5",
+    "name": "Nikola Jokic",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 98,
+    "defense": 99,
+    "shooting": 99,
+    "playmaking": 98,
+    "rebounding": 99,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-chauncey-billups-6",
+    "name": "Chauncey Billups",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 82,
+    "shooting": 77,
+    "playmaking": 95,
+    "rebounding": 82,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-mahmoud-abdul-rauf-7",
+    "name": "Mahmoud Abdul-Rauf",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 86,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-carmelo-anthony-8",
+    "name": "Carmelo Anthony",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 79,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-antonio-mcdyess-9",
+    "name": "Antonio McDyess",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 85,
+    "shooting": 84,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-den-marcus-camby-10",
+    "name": "Marcus Camby",
+    "teamId": "DEN",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 78,
+    "shooting": 82,
+    "playmaking": 82,
+    "rebounding": 94,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-isiah-thomas-1",
+    "name": "Isiah Thomas",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 87,
+    "shooting": 84,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-joe-dumars-2",
+    "name": "Joe Dumars",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 85,
+    "shooting": 85,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-grant-hill-3",
+    "name": "Grant Hill",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 94,
+    "shooting": 93,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-dennis-rodman-4",
+    "name": "Dennis Rodman",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 86,
+    "defense": 89,
+    "shooting": 84,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-ben-wallace-5",
+    "name": "Ben Wallace",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 86,
+    "rebounding": 98,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-dave-bing-6",
+    "name": "Dave Bing",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 88,
+    "shooting": 84,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-richard-hamilton-7",
+    "name": "Richard Hamilton",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 79,
+    "shooting": 79,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-tayshaun-prince-8",
+    "name": "Tayshaun Prince",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 87,
+    "shooting": 82,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-rasheed-wallace-9",
+    "name": "Rasheed Wallace",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 78,
+    "shooting": 89,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-det-bob-lanier-10",
+    "name": "Bob Lanier",
+    "teamId": "DET",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 80,
+    "defense": 80,
+    "shooting": 76,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-stephen-curry-1",
+    "name": "Stephen Curry",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2015-16",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 97,
+    "offense": 98,
+    "defense": 97,
+    "shooting": 99,
+    "playmaking": 99,
+    "rebounding": 95,
+    "athleticism": 96,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-klay-thompson-2",
+    "name": "Klay Thompson",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 88,
+    "shooting": 92,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-rick-barry-3",
+    "name": "Rick Barry",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 91,
+    "shooting": 91,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-draymond-green-4",
+    "name": "Draymond Green",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 86,
+    "defense": 88,
+    "shooting": 83,
+    "playmaking": 85,
+    "rebounding": 93,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-wilt-chamberlain-5",
+    "name": "Wilt Chamberlain",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 97,
+    "shooting": 96,
+    "playmaking": 98,
+    "rebounding": 99,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-tim-hardaway-6",
+    "name": "Tim Hardaway",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 78,
+    "shooting": 87,
+    "playmaking": 94,
+    "rebounding": 81,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-mitch-richmond-7",
+    "name": "Mitch Richmond",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 82,
+    "shooting": 86,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-chris-mullin-8",
+    "name": "Chris Mullin",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 86,
+    "defense": 84,
+    "shooting": 90,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-nate-thurmond-9",
+    "name": "Nate Thurmond",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 87,
+    "shooting": 83,
+    "playmaking": 84,
+    "rebounding": 92,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-gsw-andrew-bogut-10",
+    "name": "Andrew Bogut",
+    "teamId": "GSW",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 80,
+    "shooting": 80,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 78,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-calvin-murphy-1",
+    "name": "Calvin Murphy",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 83,
+    "shooting": 92,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-james-harden-2",
+    "name": "James Harden",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 85,
+    "shooting": 89,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-tracy-mcgrady-3",
+    "name": "Tracy McGrady",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 87,
+    "shooting": 89,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-moses-malone-4",
+    "name": "Moses Malone",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 86,
+    "defense": 84,
+    "shooting": 82,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-hakeem-olajuwon-5",
+    "name": "Hakeem Olajuwon",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 98,
+    "shooting": 99,
+    "playmaking": 96,
+    "rebounding": 99,
+    "athleticism": 94,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-kenny-smith-6",
+    "name": "Kenny Smith",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 79,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-clyde-drexler-7",
+    "name": "Clyde Drexler",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 81,
+    "shooting": 87,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-rudy-tomjanovich-8",
+    "name": "Rudy Tomjanovich",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 88,
+    "shooting": 87,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-ralph-sampson-9",
+    "name": "Ralph Sampson",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 77,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-hou-yao-ming-10",
+    "name": "Yao Ming",
+    "teamId": "HOU",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 78,
+    "shooting": 87,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-mark-jackson-1",
+    "name": "Mark Jackson",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1999-00",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 85,
+    "shooting": 89,
+    "playmaking": 99,
+    "rebounding": 87,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-reggie-miller-2",
+    "name": "Reggie Miller",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 86,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-paul-george-3",
+    "name": "Paul George",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 84,
+    "shooting": 89,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-jermaine-o-neal-4",
+    "name": "Jermaine O\u2019Neal",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 85,
+    "shooting": 87,
+    "playmaking": 87,
+    "rebounding": 95,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-rik-smits-5",
+    "name": "Rik Smits",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 87,
+    "shooting": 88,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-freddie-lewis-6",
+    "name": "Freddie Lewis",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1972-73",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 80,
+    "shooting": 79,
+    "playmaking": 94,
+    "rebounding": 81,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-victor-oladipo-7",
+    "name": "Victor Oladipo",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 82,
+    "shooting": 86,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-danny-granger-8",
+    "name": "Danny Granger",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 84,
+    "shooting": 89,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-george-mcginnis-9",
+    "name": "George McGinnis",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 87,
+    "shooting": 83,
+    "playmaking": 84,
+    "rebounding": 92,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-ind-mel-daniels-10",
+    "name": "Mel Daniels",
+    "teamId": "IND",
+    "era": "all-time",
+    "season": "1971-72",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 83,
+    "shooting": 82,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-chris-paul-1",
+    "name": "Chris Paul",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 91,
+    "shooting": 85,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-randy-smith-2",
+    "name": "Randy Smith",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 88,
+    "shooting": 89,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-kawhi-leonard-3",
+    "name": "Kawhi Leonard",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 94,
+    "shooting": 89,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-blake-griffin-4",
+    "name": "Blake Griffin",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 93,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-bob-mcadoo-5",
+    "name": "Bob McAdoo",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 89,
+    "shooting": 93,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-sam-cassell-6",
+    "name": "Sam Cassell",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 84,
+    "shooting": 82,
+    "playmaking": 91,
+    "rebounding": 78,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-world-b-free-7",
+    "name": "World B. Free",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-corey-maggette-8",
+    "name": "Corey Maggette",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-elton-brand-9",
+    "name": "Elton Brand",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 84,
+    "shooting": 83,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lac-deandre-jordan-10",
+    "name": "DeAndre Jordan",
+    "teamId": "LAC",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 83,
+    "shooting": 86,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-magic-johnson-1",
+    "name": "Magic Johnson",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "1981-82",
+    "decadeTags": [
+      "80s",
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 97,
+    "offense": 98,
+    "defense": 96,
+    "shooting": 99,
+    "playmaking": 99,
+    "rebounding": 92,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-kobe-bryant-2",
+    "name": "Kobe Bryant",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 97,
+    "offense": 98,
+    "defense": 93,
+    "shooting": 99,
+    "playmaking": 97,
+    "rebounding": 95,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-elgin-baylor-3",
+    "name": "Elgin Baylor",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 92,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-kareem-abdul-jabbar-4",
+    "name": "Kareem Abdul-Jabbar",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s",
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 95,
+    "shooting": 98,
+    "playmaking": 96,
+    "rebounding": 99,
+    "athleticism": 97,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-shaquille-o-neal-5",
+    "name": "Shaquille O\u2019Neal",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 99,
+    "shooting": 99,
+    "playmaking": 94,
+    "rebounding": 99,
+    "athleticism": 94,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-jerry-west-6",
+    "name": "Jerry West",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 79,
+    "shooting": 86,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-gail-goodrich-7",
+    "name": "Gail Goodrich",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 87,
+    "shooting": 80,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-james-worthy-8",
+    "name": "James Worthy",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "80s",
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 85,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-pau-gasol-9",
+    "name": "Pau Gasol",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 82,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-lal-george-mikan-10",
+    "name": "George Mikan",
+    "teamId": "LAL",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 83,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-mike-conley-1",
+    "name": "Mike Conley",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 86,
+    "shooting": 84,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-tony-allen-2",
+    "name": "Tony Allen",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 90,
+    "shooting": 86,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-shane-battier-3",
+    "name": "Shane Battier",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 88,
+    "shooting": 92,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-zach-randolph-4",
+    "name": "Zach Randolph",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 87,
+    "defense": 88,
+    "shooting": 82,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-marc-gasol-5",
+    "name": "Marc Gasol",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 89,
+    "shooting": 81,
+    "playmaking": 88,
+    "rebounding": 99,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-ja-morant-6",
+    "name": "Ja Morant",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 87,
+    "shooting": 88,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-mike-miller-7",
+    "name": "Mike Miller",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 80,
+    "shooting": 88,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-rudy-gay-8",
+    "name": "Rudy Gay",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 81,
+    "shooting": 80,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-pau-gasol-9",
+    "name": "Pau Gasol",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 87,
+    "shooting": 88,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mem-steven-adams-10",
+    "name": "Steven Adams",
+    "teamId": "MEM",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 82,
+    "shooting": 81,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-tim-hardaway-1",
+    "name": "Tim Hardaway",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 86,
+    "shooting": 92,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-dwyane-wade-2",
+    "name": "Dwyane Wade",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 93,
+    "shooting": 83,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-lebron-james-3",
+    "name": "LeBron James",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 97,
+    "defense": 92,
+    "shooting": 99,
+    "playmaking": 95,
+    "rebounding": 93,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-chris-bosh-4",
+    "name": "Chris Bosh",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 91,
+    "shooting": 86,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-alonzo-mourning-5",
+    "name": "Alonzo Mourning",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 83,
+    "shooting": 86,
+    "playmaking": 85,
+    "rebounding": 97,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-goran-dragic-6",
+    "name": "Goran Dragic",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 83,
+    "shooting": 87,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-glen-rice-7",
+    "name": "Glen Rice",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 79,
+    "shooting": 88,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-jimmy-butler-8",
+    "name": "Jimmy Butler",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 79,
+    "shooting": 87,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-udonis-haslem-9",
+    "name": "Udonis Haslem",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 83,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mia-shaquille-o-neal-10",
+    "name": "Shaquille O\u2019Neal",
+    "teamId": "MIA",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 98,
+    "defense": 99,
+    "shooting": 99,
+    "playmaking": 97,
+    "rebounding": 99,
+    "athleticism": 99,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-oscar-robertson-1",
+    "name": "Oscar Robertson",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-sidney-moncrief-2",
+    "name": "Sidney Moncrief",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1981-82",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 88,
+    "shooting": 90,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-marques-johnson-3",
+    "name": "Marques Johnson",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1987-88",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 87,
+    "shooting": 94,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-giannis-antetokounmpo-4",
+    "name": "Giannis Antetokounmpo",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 97,
+    "offense": 96,
+    "defense": 99,
+    "shooting": 92,
+    "playmaking": 96,
+    "rebounding": 99,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-kareem-abdul-jabbar-5",
+    "name": "Kareem Abdul-Jabbar",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s",
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 96,
+    "defense": 98,
+    "shooting": 94,
+    "playmaking": 95,
+    "rebounding": 99,
+    "athleticism": 97,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-sam-cassell-6",
+    "name": "Sam Cassell",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 79,
+    "shooting": 87,
+    "playmaking": 94,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-ray-allen-7",
+    "name": "Ray Allen",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 88,
+    "shooting": 88,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-glenn-robinson-8",
+    "name": "Glenn Robinson",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 84,
+    "shooting": 79,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-terry-cummings-9",
+    "name": "Terry Cummings",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 81,
+    "shooting": 79,
+    "playmaking": 82,
+    "rebounding": 90,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-mil-bob-lanier-10",
+    "name": "Bob Lanier",
+    "teamId": "MIL",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 81,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-sam-cassell-1",
+    "name": "Sam Cassell",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 85,
+    "shooting": 94,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-anthony-edwards-2",
+    "name": "Anthony Edwards",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 93,
+    "shooting": 91,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-wally-szczerbiak-3",
+    "name": "Wally Szczerbiak",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 92,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-kevin-garnett-4",
+    "name": "Kevin Garnett",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 86,
+    "shooting": 94,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-karl-anthony-towns-5",
+    "name": "Karl-Anthony Towns",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 91,
+    "shooting": 93,
+    "playmaking": 84,
+    "rebounding": 96,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-terrell-brandon-6",
+    "name": "Terrell Brandon",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 83,
+    "shooting": 85,
+    "playmaking": 94,
+    "rebounding": 81,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-latrell-sprewell-7",
+    "name": "Latrell Sprewell",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 82,
+    "shooting": 84,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-jimmy-butler-8",
+    "name": "Jimmy Butler",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 87,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-tom-gugliotta-9",
+    "name": "Tom Gugliotta",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 77,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-min-al-jefferson-10",
+    "name": "Al Jefferson",
+    "teamId": "MIN",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 80,
+    "shooting": 87,
+    "playmaking": 82,
+    "rebounding": 94,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-chris-paul-1",
+    "name": "Chris Paul",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 90,
+    "shooting": 88,
+    "playmaking": 97,
+    "rebounding": 84,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-jrue-holiday-2",
+    "name": "Jrue Holiday",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 85,
+    "shooting": 94,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-brandon-ingram-3",
+    "name": "Brandon Ingram",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 94,
+    "shooting": 93,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-zion-williamson-4",
+    "name": "Zion Williamson",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 91,
+    "shooting": 93,
+    "playmaking": 85,
+    "rebounding": 93,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-anthony-davis-5",
+    "name": "Anthony Davis",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2015-16",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 90,
+    "shooting": 82,
+    "playmaking": 88,
+    "rebounding": 99,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-baron-davis-6",
+    "name": "Baron Davis",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 83,
+    "shooting": 86,
+    "playmaking": 91,
+    "rebounding": 78,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-cj-mccollum-7",
+    "name": "CJ McCollum",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "1996-97",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 85,
+    "shooting": 88,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-peja-stojakovic-8",
+    "name": "Peja Stojakovic",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 81,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-david-west-9",
+    "name": "David West",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 83,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nop-tyson-chandler-10",
+    "name": "Tyson Chandler",
+    "teamId": "NOP",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 88,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 78,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-walt-frazier-1",
+    "name": "Walt Frazier",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 89,
+    "shooting": 83,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-earl-monroe-2",
+    "name": "Earl Monroe",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1976-77",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 94,
+    "shooting": 95,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-bernard-king-3",
+    "name": "Bernard King",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 89,
+    "shooting": 87,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-dave-debusschere-4",
+    "name": "Dave DeBusschere",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1977-78",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 86,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-patrick-ewing-5",
+    "name": "Patrick Ewing",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 86,
+    "shooting": 84,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-mark-jackson-6",
+    "name": "Mark Jackson",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 87,
+    "shooting": 81,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-allan-houston-7",
+    "name": "Allan Houston",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 88,
+    "shooting": 84,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-carmelo-anthony-8",
+    "name": "Carmelo Anthony",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 79,
+    "shooting": 80,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-charles-oakley-9",
+    "name": "Charles Oakley",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 83,
+    "defense": 81,
+    "shooting": 84,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-nyk-willis-reed-10",
+    "name": "Willis Reed",
+    "teamId": "NYK",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 83,
+    "defense": 87,
+    "shooting": 88,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-gary-payton-1",
+    "name": "Gary Payton",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 84,
+    "shooting": 86,
+    "playmaking": 97,
+    "rebounding": 84,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-russell-westbrook-2",
+    "name": "Russell Westbrook",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 92,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-kevin-durant-3",
+    "name": "Kevin Durant",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 94,
+    "shooting": 89,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-shawn-kemp-4",
+    "name": "Shawn Kemp",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 85,
+    "shooting": 88,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-jack-sikma-5",
+    "name": "Jack Sikma",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 85,
+    "defense": 85,
+    "shooting": 81,
+    "playmaking": 85,
+    "rebounding": 97,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-dennis-johnson-6",
+    "name": "Dennis Johnson",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1985-86",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 82,
+    "shooting": 88,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-ray-allen-7",
+    "name": "Ray Allen",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 86,
+    "shooting": 83,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-detlef-schrempf-8",
+    "name": "Detlef Schrempf",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 86,
+    "shooting": 87,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-spencer-haywood-9",
+    "name": "Spencer Haywood",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 78,
+    "playmaking": 84,
+    "rebounding": 92,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-okc-serge-ibaka-10",
+    "name": "Serge Ibaka",
+    "teamId": "OKC",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 79,
+    "shooting": 81,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-penny-hardaway-1",
+    "name": "Penny Hardaway",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 91,
+    "shooting": 91,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-tracy-mcgrady-2",
+    "name": "Tracy McGrady",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 87,
+    "shooting": 90,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-grant-hill-3",
+    "name": "Grant Hill",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 87,
+    "defense": 89,
+    "shooting": 83,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-horace-grant-4",
+    "name": "Horace Grant",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 89,
+    "shooting": 88,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-shaquille-o-neal-5",
+    "name": "Shaquille O\u2019Neal",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 97,
+    "offense": 96,
+    "defense": 98,
+    "shooting": 96,
+    "playmaking": 94,
+    "rebounding": 99,
+    "athleticism": 96,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-darrell-armstrong-6",
+    "name": "Darrell Armstrong",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 87,
+    "defense": 85,
+    "shooting": 89,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-nick-anderson-7",
+    "name": "Nick Anderson",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1999-00",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 89,
+    "shooting": 80,
+    "playmaking": 85,
+    "rebounding": 83,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-dennis-scott-8",
+    "name": "Dennis Scott",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 86,
+    "defense": 84,
+    "shooting": 90,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-rashard-lewis-9",
+    "name": "Rashard Lewis",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2009-10",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 81,
+    "shooting": 89,
+    "playmaking": 84,
+    "rebounding": 92,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-orl-dwight-howard-10",
+    "name": "Dwight Howard",
+    "teamId": "ORL",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 78,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-maurice-cheeks-1",
+    "name": "Maurice Cheeks",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 86,
+    "shooting": 84,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-allen-iverson-2",
+    "name": "Allen Iverson",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 92,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-julius-erving-3",
+    "name": "Julius Erving",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s",
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 93,
+    "shooting": 87,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-charles-barkley-4",
+    "name": "Charles Barkley",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 86,
+    "defense": 92,
+    "shooting": 82,
+    "playmaking": 87,
+    "rebounding": 95,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-moses-malone-5",
+    "name": "Moses Malone",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 85,
+    "defense": 91,
+    "shooting": 83,
+    "playmaking": 84,
+    "rebounding": 96,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-hal-greer-6",
+    "name": "Hal Greer",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 82,
+    "shooting": 85,
+    "playmaking": 91,
+    "rebounding": 78,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-andrew-toney-7",
+    "name": "Andrew Toney",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2008-09",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 81,
+    "shooting": 80,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-billy-cunningham-8",
+    "name": "Billy Cunningham",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 84,
+    "shooting": 81,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-dolph-schayes-9",
+    "name": "Dolph Schayes",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 87,
+    "shooting": 88,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phi-joel-embiid-10",
+    "name": "Joel Embiid",
+    "teamId": "PHI",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 82,
+    "shooting": 78,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-steve-nash-1",
+    "name": "Steve Nash",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "2001-02",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 93,
+    "shooting": 84,
+    "playmaking": 96,
+    "rebounding": 83,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-devin-booker-2",
+    "name": "Devin Booker",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1999-00",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 94,
+    "shooting": 89,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-shawn-marion-3",
+    "name": "Shawn Marion",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "2014-15",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 91,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-charles-barkley-4",
+    "name": "Charles Barkley",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 87,
+    "defense": 86,
+    "shooting": 84,
+    "playmaking": 87,
+    "rebounding": 95,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-amar-e-stoudemire-5",
+    "name": "Amar\u2019e Stoudemire",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 82,
+    "shooting": 90,
+    "playmaking": 86,
+    "rebounding": 98,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-kevin-johnson-6",
+    "name": "Kevin Johnson",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 88,
+    "shooting": 85,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-walter-davis-7",
+    "name": "Walter Davis",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1986-87",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 83,
+    "shooting": 85,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-grant-hill-8",
+    "name": "Grant Hill",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 85,
+    "shooting": 81,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-tom-chambers-9",
+    "name": "Tom Chambers",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1985-86",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 87,
+    "shooting": 80,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-phx-alvan-adams-10",
+    "name": "Alvan Adams",
+    "teamId": "PHX",
+    "era": "all-time",
+    "season": "1970-71",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 77,
+    "shooting": 84,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-damian-lillard-1",
+    "name": "Damian Lillard",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 88,
+    "shooting": 89,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-clyde-drexler-2",
+    "name": "Clyde Drexler",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1980-81",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 87,
+    "defense": 87,
+    "shooting": 84,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-brandon-roy-3",
+    "name": "Brandon Roy",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 86,
+    "shooting": 91,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-lamarcus-aldridge-4",
+    "name": "LaMarcus Aldridge",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2015-16",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 86,
+    "defense": 87,
+    "shooting": 84,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-bill-walton-5",
+    "name": "Bill Walton",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1971-72",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 86,
+    "defense": 82,
+    "shooting": 83,
+    "playmaking": 88,
+    "rebounding": 99,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-terry-porter-6",
+    "name": "Terry Porter",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1983-84",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 86,
+    "shooting": 77,
+    "playmaking": 94,
+    "rebounding": 81,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-geoff-petrie-7",
+    "name": "Geoff Petrie",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "1971-72",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 87,
+    "shooting": 90,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-jerome-kersey-8",
+    "name": "Jerome Kersey",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2000-01",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 87,
+    "shooting": 80,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-rasheed-wallace-9",
+    "name": "Rasheed Wallace",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 84,
+    "shooting": 83,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-por-arvydas-sabonis-10",
+    "name": "Arvydas Sabonis",
+    "teamId": "POR",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 79,
+    "shooting": 82,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-oscar-robertson-1",
+    "name": "Oscar Robertson",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1999-00",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 91,
+    "shooting": 88,
+    "playmaking": 99,
+    "rebounding": 87,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-mitch-richmond-2",
+    "name": "Mitch Richmond",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1980-81",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 89,
+    "shooting": 91,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-peja-stojakovic-3",
+    "name": "Peja Stojakovic",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 84,
+    "shooting": 90,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-chris-webber-4",
+    "name": "Chris Webber",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 89,
+    "defense": 93,
+    "shooting": 94,
+    "playmaking": 86,
+    "rebounding": 94,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-jerry-lucas-5",
+    "name": "Jerry Lucas",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 85,
+    "defense": 89,
+    "shooting": 82,
+    "playmaking": 84,
+    "rebounding": 96,
+    "athleticism": 89,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-nate-archibald-6",
+    "name": "Nate Archibald",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 81,
+    "shooting": 85,
+    "playmaking": 95,
+    "rebounding": 82,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-doug-christie-7",
+    "name": "Doug Christie",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 86,
+    "shooting": 82,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-ron-artest-8",
+    "name": "Ron Artest",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 86,
+    "shooting": 85,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-maurice-stokes-9",
+    "name": "Maurice Stokes",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 81,
+    "playmaking": 80,
+    "rebounding": 88,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sac-vlade-divac-10",
+    "name": "Vlade Divac",
+    "teamId": "SAC",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 78,
+    "shooting": 80,
+    "playmaking": 80,
+    "rebounding": 92,
+    "athleticism": 80,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-tony-parker-1",
+    "name": "Tony Parker",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 88,
+    "shooting": 84,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-george-gervin-2",
+    "name": "George Gervin",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 94,
+    "shooting": 84,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-kawhi-leonard-3",
+    "name": "Kawhi Leonard",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2010-11",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 90,
+    "shooting": 86,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-tim-duncan-4",
+    "name": "Tim Duncan",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1992-93",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 97,
+    "offense": 96,
+    "defense": 94,
+    "shooting": 96,
+    "playmaking": 96,
+    "rebounding": 99,
+    "athleticism": 94,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-david-robinson-5",
+    "name": "David Robinson",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1991-92",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 85,
+    "shooting": 88,
+    "playmaking": 87,
+    "rebounding": 99,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-avery-johnson-6",
+    "name": "Avery Johnson",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 88,
+    "shooting": 86,
+    "playmaking": 93,
+    "rebounding": 80,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-manu-ginobili-7",
+    "name": "Manu Ginobili",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2005-06",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 87,
+    "shooting": 86,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-sean-elliott-8",
+    "name": "Sean Elliott",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 79,
+    "shooting": 87,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-lamarcus-aldridge-9",
+    "name": "LaMarcus Aldridge",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "2013-14",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 79,
+    "shooting": 82,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-sas-artis-gilmore-10",
+    "name": "Artis Gilmore",
+    "teamId": "SAS",
+    "era": "all-time",
+    "season": "1971-72",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 81,
+    "defense": 81,
+    "shooting": 78,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-kyle-lowry-1",
+    "name": "Kyle Lowry",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2017-18",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 90,
+    "defense": 83,
+    "shooting": 83,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-vince-carter-2",
+    "name": "Vince Carter",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 84,
+    "shooting": 92,
+    "playmaking": 88,
+    "rebounding": 86,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-kawhi-leonard-3",
+    "name": "Kawhi Leonard",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 84,
+    "shooting": 87,
+    "playmaking": 87,
+    "rebounding": 85,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-chris-bosh-4",
+    "name": "Chris Bosh",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2002-03",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 90,
+    "shooting": 90,
+    "playmaking": 88,
+    "rebounding": 96,
+    "athleticism": 92,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-marc-gasol-5",
+    "name": "Marc Gasol",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2016-17",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 85,
+    "shooting": 90,
+    "playmaking": 85,
+    "rebounding": 97,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-damon-stoudamire-6",
+    "name": "Damon Stoudamire",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 85,
+    "defense": 81,
+    "shooting": 82,
+    "playmaking": 91,
+    "rebounding": 78,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-demar-derozan-7",
+    "name": "DeMar DeRozan",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2011-12",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 81,
+    "shooting": 86,
+    "playmaking": 81,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-tracy-mcgrady-8",
+    "name": "Tracy McGrady",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "2007-08",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 80,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-antonio-davis-9",
+    "name": "Antonio Davis",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "1998-99",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 85,
+    "shooting": 77,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-tor-jonas-valanciunas-10",
+    "name": "Jonas Valanciunas",
+    "teamId": "TOR",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 80,
+    "defense": 80,
+    "shooting": 77,
+    "playmaking": 79,
+    "rebounding": 91,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-john-stockton-1",
+    "name": "John Stockton",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1986-87",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 92,
+    "defense": 83,
+    "shooting": 92,
+    "playmaking": 99,
+    "rebounding": 86,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-pete-maravich-2",
+    "name": "Pete Maravich",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 88,
+    "defense": 91,
+    "shooting": 89,
+    "playmaking": 86,
+    "rebounding": 84,
+    "athleticism": 93,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-adrian-dantley-3",
+    "name": "Adrian Dantley",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1982-83",
+    "decadeTags": [
+      "80s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 93,
+    "shooting": 88,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-karl-malone-4",
+    "name": "Karl Malone",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1980-81",
+    "decadeTags": [
+      "80s",
+      "90s",
+      "00s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 88,
+    "defense": 86,
+    "shooting": 85,
+    "playmaking": 89,
+    "rebounding": 97,
+    "athleticism": 88,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-rudy-gobert-5",
+    "name": "Rudy Gobert",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 88,
+    "defense": 85,
+    "shooting": 91,
+    "playmaking": 86,
+    "rebounding": 98,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-deron-williams-6",
+    "name": "Deron Williams",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1994-95",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 86,
+    "defense": 84,
+    "shooting": 82,
+    "playmaking": 95,
+    "rebounding": 82,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-jeff-hornacek-7",
+    "name": "Jeff Hornacek",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1990-91",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 78,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-andrei-kirilenko-8",
+    "name": "Andrei Kirilenko",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 83,
+    "defense": 84,
+    "shooting": 81,
+    "playmaking": 83,
+    "rebounding": 81,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-carlos-boozer-9",
+    "name": "Carlos Boozer",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 84,
+    "shooting": 85,
+    "playmaking": 83,
+    "rebounding": 91,
+    "athleticism": 79,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-uta-mark-eaton-10",
+    "name": "Mark Eaton",
+    "teamId": "UTA",
+    "era": "all-time",
+    "season": "2004-05",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 82,
+    "defense": 80,
+    "shooting": 83,
+    "playmaking": 83,
+    "rebounding": 95,
+    "athleticism": 81,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-gilbert-arenas-1",
+    "name": "Gilbert Arenas",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "2006-07",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 88,
+    "offense": 91,
+    "defense": 93,
+    "shooting": 91,
+    "playmaking": 98,
+    "rebounding": 85,
+    "athleticism": 91,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-earl-monroe-2",
+    "name": "Earl Monroe",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1977-78",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 89,
+    "offense": 89,
+    "defense": 92,
+    "shooting": 88,
+    "playmaking": 90,
+    "rebounding": 88,
+    "athleticism": 86,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-elvin-hayes-3",
+    "name": "Elvin Hayes",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1973-74",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 89,
+    "offense": 90,
+    "defense": 93,
+    "shooting": 92,
+    "playmaking": 89,
+    "rebounding": 87,
+    "athleticism": 90,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-antawn-jamison-4",
+    "name": "Antawn Jamison",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1995-96",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 88,
+    "offense": 87,
+    "defense": 90,
+    "shooting": 88,
+    "playmaking": 85,
+    "rebounding": 93,
+    "athleticism": 87,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-wes-unseld-5",
+    "name": "Wes Unseld",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1975-76",
+    "decadeTags": [
+      "70s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 87,
+    "offense": 87,
+    "defense": 82,
+    "shooting": 87,
+    "playmaking": 88,
+    "rebounding": 99,
+    "athleticism": 84,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-john-wall-6",
+    "name": "John Wall",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "overall": 83,
+    "offense": 84,
+    "defense": 81,
+    "shooting": 77,
+    "playmaking": 92,
+    "rebounding": 79,
+    "athleticism": 83,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-bradley-beal-7",
+    "name": "Bradley Beal",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "2012-13",
+    "decadeTags": [
+      "10s"
+    ],
+    "positions": [
+      "SG",
+      "PG",
+      "SF"
+    ],
+    "overall": 84,
+    "offense": 84,
+    "defense": 87,
+    "shooting": 85,
+    "playmaking": 82,
+    "rebounding": 80,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-caron-butler-8",
+    "name": "Caron Butler",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "2003-04",
+    "decadeTags": [
+      "00s"
+    ],
+    "positions": [
+      "SF",
+      "SG",
+      "PF"
+    ],
+    "overall": 84,
+    "offense": 85,
+    "defense": 79,
+    "shooting": 88,
+    "playmaking": 84,
+    "rebounding": 82,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-chris-webber-9",
+    "name": "Chris Webber",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1993-94",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "PF",
+      "SF",
+      "C"
+    ],
+    "overall": 83,
+    "offense": 82,
+    "defense": 84,
+    "shooting": 83,
+    "playmaking": 81,
+    "rebounding": 89,
+    "athleticism": 82,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  },
+  {
+    "id": "alltime-was-gheorghe-muresan-10",
+    "name": "Gheorghe Muresan",
+    "teamId": "WAS",
+    "era": "all-time",
+    "season": "1997-98",
+    "decadeTags": [
+      "90s"
+    ],
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "overall": 82,
+    "offense": 80,
+    "defense": 85,
+    "shooting": 76,
+    "playmaking": 81,
+    "rebounding": 93,
+    "athleticism": 85,
+    "ratingMethod": "statistical-plus-manual",
+    "ratingConfidence": "high",
+    "active": true
+  }
+]

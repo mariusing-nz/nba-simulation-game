@@ -1,0 +1,12 @@
+import{createRng}from'./random.js';import{simulateGame}from'./simulator.js';
+
+export const PLAYOFF_FORM_VARIATION=1.45;
+export const PLAYOFF_HOME_COURT_ADVANTAGE=3.2;
+export const PLAYOFF_RATING_IMPACT=.28;
+export const HOME_PATTERN=['HIGH','HIGH','LOW','LOW','HIGH','LOW','HIGH'];
+
+export function createSeries({id,conference,round,teamAId,teamBId,teamASeed,teamBSeed,homeCourtTeamId}){return{id,conference,round,teamAId,teamBId,teamASeed,teamBSeed,homeCourtTeamId,teamAWins:0,teamBWins:0,winnerTeamId:null,status:'PENDING',games:[]}}
+
+export function simulateSeries(series,teamMap,gameId,onGame=()=>{}){if(series.status==='COMPLETE')return series;series.status='IN_PROGRESS';const high=series.homeCourtTeamId,low=high===series.teamAId?series.teamBId:series.teamAId;while(series.teamAWins<4&&series.teamBWins<4){const gameNumber=series.games.length+1,highHome=HOME_PATTERN[gameNumber-1]==='HIGH',homeTeamId=highHome?high:low,awayTeamId=highHome?low:high,id=`${series.id}-g${gameNumber}`,rng=createRng(`${gameId}:PLAYOFF:${series.id}:GAME:${gameNumber}`);const game=simulateGame({id,gameNumber,homeTeamId,awayTeamId,overtimes:0,played:false},teamMap,rng,{ratingImpact:PLAYOFF_RATING_IMPACT,formVariation:PLAYOFF_FORM_VARIATION,homeCourtAdvantage:PLAYOFF_HOME_COURT_ADVANTAGE,scoreVariation:7});if(game.homeScore>game.awayScore){if(game.homeTeamId===series.teamAId)series.teamAWins++;else series.teamBWins++}else if(game.awayTeamId===series.teamAId)series.teamAWins++;else series.teamBWins++;game.seriesScore={teamAWins:series.teamAWins,teamBWins:series.teamBWins};game.clinching=series.teamAWins===4||series.teamBWins===4;game.eliminationGame=game.clinching||series.teamAWins===3||series.teamBWins===3;series.games.push(game);onGame(series,game)}series.winnerTeamId=series.teamAWins===4?series.teamAId:series.teamBId;series.status='COMPLETE';return series}
+
+export function validateSeries(series){const errors=[];if(series.status==='COMPLETE'){const winnerWins=series.winnerTeamId===series.teamAId?series.teamAWins:series.teamBWins,loserWins=series.winnerTeamId===series.teamAId?series.teamBWins:series.teamAWins;if(winnerWins!==4)errors.push(`${series.id} winner did not reach four wins.`);if(loserWins<0||loserWins>3)errors.push(`${series.id} loser wins invalid.`);if(series.games.length<4||series.games.length>7)errors.push(`${series.id} game count invalid.`);if(series.games.slice(0,-1).some(game=>game.seriesScore.teamAWins===4||game.seriesScore.teamBWins===4))errors.push(`${series.id} contains games after clinching.`)}return{valid:errors.length===0,errors}}

@@ -1,0 +1,18 @@
+import{playTick}from'./audio.js';
+
+export const NBA_BLUE='#17408B';
+export const NBA_RED='#C9082A';
+const colors=[NBA_BLUE,NBA_RED,'#FFFFFF','#111827'];
+
+function wheelGradient(count){const step=360/count;return`conic-gradient(${Array.from({length:count},(_,index)=>`${colors[index%colors.length]} ${index*step}deg ${(index+1)*step}deg`).join(',')})`}
+function settledTurn(index,count){return-(index+.5)*(360/count)}
+function labels(items){const count=items.length;return items.map((item,index)=>{const angle=(index+.5)*360/count;const label=item.id==='all-time'?'ALL-TIME':item.id==='current'?'CURRENT':item.id.endsWith('s')?item.name:item.id;return`<span class="wheel-segment-label ${count<=7?'era-label':''}" style="--label-angle:${angle}deg">${label}</span>`}).join('')}
+
+export function wheelView({title,subtitle,result,items=[],disabled=false,canContinue=false}){
+  const inactive=disabled||Boolean(result),turn=result?settledTurn(result.index,items.length):0;
+  return`<section class="card wheel-card"><div class="split"><div><p class="eyebrow">${title}</p><h2>${subtitle}</h2></div>${result?'<span class="pill active">Locked in</span>':''}</div><p class="muted wheel-help">${result?'Selection complete. Continue when ready.':'Click the wheel or press Enter to spin.'}</p><div class="wheel-wrap"><div class="pointer" aria-hidden="true"></div><div class="wheel ${inactive?'wheel-disabled':'wheel-clickable'}" id="wheel" role="button" tabindex="${inactive?'-1':'0'}" aria-label="${inactive?'Wheel spin complete':'Spin the wheel'}" aria-disabled="${inactive}" style="--segments:${items.length};--turn:${turn}deg;background:${wheelGradient(Math.max(items.length,1))}">${labels(items)}<span class="wheel-hub" aria-hidden="true">SPIN</span></div></div>${result?`<div class="wheel-result" role="status"><span>Selected</span><strong>${result.name}</strong></div>`:''}${canContinue?'<div class="actions"><button class="button secondary" id="continue-draft" type="button">Continue</button></div>':''}</section>`
+}
+
+export function playerListView({title,subtitle,players,selectedId}){return`<section class="card player-picker"><div class="split"><div><p class="eyebrow">${title}</p><h2>${subtitle}</h2></div><span class="pill">${players.length} eligible</span></div><p class="muted player-picker-help">Choose one player to fill this roster position.</p><div class="player-options" role="radiogroup" aria-label="Eligible players">${players.map(player=>`<button type="button" class="player-option ${selectedId===player.id?'selected':''}" data-player-id="${player.id}" role="radio" aria-checked="${selectedId===player.id}"><span class="player-option-copy"><strong>${player.name}</strong><small>${player.season} · ${player.positions.join('/')} · ${player.era==='all-time'?'All-Time':'Current'}</small></span><span class="overall-badge"><small>OVR</small>${player.overall}</span></button>`).join('')}</div><div class="actions"><button class="button" id="confirm-player" type="button" ${selectedId?'':'disabled'}>Draft selected player</button></div></section>`}
+
+export async function animateWheel(result,settings,totalItems=1){const wheel=document.querySelector('#wheel');if(!wheel)return;const final=settledTurn(result.index,totalItems),turns=5+result.index%3;wheel.classList.remove('wheel-clickable');wheel.classList.add('wheel-spinning');wheel.setAttribute('aria-disabled','true');wheel.style.setProperty('--turn',`${turns*360+final}deg`);playTick(settings.sound);await new Promise(resolve=>setTimeout(resolve,settings.reducedMotion?20:3150));return final}

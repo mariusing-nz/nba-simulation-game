@@ -1,0 +1,482 @@
+[
+  {
+    "id": "ATL",
+    "name": "Atlanta Hawks",
+    "city": "Atlanta",
+    "conference": "East",
+    "division": "Southeast",
+    "baseOverall": 80,
+    "baseOffense": 82,
+    "baseDefense": 78,
+    "pace": 100,
+    "active": true,
+    "theme": {
+      "primary": "#E03A3E",
+      "secondary": "#C1D32F"
+    }
+  },
+  {
+    "id": "BOS",
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "conference": "East",
+    "division": "Atlantic",
+    "baseOverall": 94,
+    "baseOffense": 94,
+    "baseDefense": 93,
+    "pace": 98,
+    "active": true,
+    "theme": {
+      "primary": "#007A33",
+      "secondary": "#BA9653"
+    }
+  },
+  {
+    "id": "BKN",
+    "name": "Brooklyn Nets",
+    "city": "Brooklyn",
+    "conference": "East",
+    "division": "Atlantic",
+    "baseOverall": 73,
+    "baseOffense": 75,
+    "baseDefense": 72,
+    "pace": 99,
+    "active": true,
+    "theme": {
+      "primary": "#222222",
+      "secondary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "CHA",
+    "name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "conference": "East",
+    "division": "Southeast",
+    "baseOverall": 75,
+    "baseOffense": 77,
+    "baseDefense": 73,
+    "pace": 101,
+    "active": true,
+    "theme": {
+      "primary": "#1D1160",
+      "secondary": "#00788C"
+    }
+  },
+  {
+    "id": "CHI",
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "conference": "East",
+    "division": "Central",
+    "baseOverall": 78,
+    "baseOffense": 79,
+    "baseDefense": 77,
+    "pace": 98,
+    "active": true,
+    "theme": {
+      "primary": "#CE1141",
+      "secondary": "#000000"
+    }
+  },
+  {
+    "id": "CLE",
+    "name": "Cleveland Cavaliers",
+    "city": "Cleveland",
+    "conference": "East",
+    "division": "Central",
+    "baseOverall": 92,
+    "baseOffense": 91,
+    "baseDefense": 93,
+    "pace": 97,
+    "active": true,
+    "theme": {
+      "primary": "#860038",
+      "secondary": "#FDBB30"
+    }
+  },
+  {
+    "id": "DAL",
+    "name": "Dallas Mavericks",
+    "city": "Dallas",
+    "conference": "West",
+    "division": "Southwest",
+    "baseOverall": 84,
+    "baseOffense": 87,
+    "baseDefense": 80,
+    "pace": 99,
+    "active": true,
+    "theme": {
+      "primary": "#00538C",
+      "secondary": "#B8C4CA"
+    }
+  },
+  {
+    "id": "DEN",
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "conference": "West",
+    "division": "Northwest",
+    "baseOverall": 89,
+    "baseOffense": 91,
+    "baseDefense": 86,
+    "pace": 97,
+    "active": true,
+    "theme": {
+      "primary": "#0E2240",
+      "secondary": "#FEC524"
+    }
+  },
+  {
+    "id": "DET",
+    "name": "Detroit Pistons",
+    "city": "Detroit",
+    "conference": "East",
+    "division": "Central",
+    "baseOverall": 83,
+    "baseOffense": 82,
+    "baseDefense": 84,
+    "pace": 100,
+    "active": true,
+    "theme": {
+      "primary": "#C8102E",
+      "secondary": "#1D42BA"
+    }
+  },
+  {
+    "id": "GSW",
+    "name": "Golden State Warriors",
+    "city": "San Francisco",
+    "conference": "West",
+    "division": "Pacific",
+    "baseOverall": 84,
+    "baseOffense": 87,
+    "baseDefense": 81,
+    "pace": 102,
+    "active": true,
+    "theme": {
+      "primary": "#1D428A",
+      "secondary": "#FFC72C"
+    }
+  },
+  {
+    "id": "HOU",
+    "name": "Houston Rockets",
+    "city": "Houston",
+    "conference": "West",
+    "division": "Southwest",
+    "baseOverall": 88,
+    "baseOffense": 86,
+    "baseDefense": 91,
+    "pace": 100,
+    "active": true,
+    "theme": {
+      "primary": "#CE1141",
+      "secondary": "#C4CED4"
+    }
+  },
+  {
+    "id": "IND",
+    "name": "Indiana Pacers",
+    "city": "Indianapolis",
+    "conference": "East",
+    "division": "Central",
+    "baseOverall": 87,
+    "baseOffense": 91,
+    "baseDefense": 82,
+    "pace": 104,
+    "active": true,
+    "theme": {
+      "primary": "#002D62",
+      "secondary": "#FDBB30"
+    }
+  },
+  {
+    "id": "LAC",
+    "name": "LA Clippers",
+    "city": "Los Angeles",
+    "conference": "West",
+    "division": "Pacific",
+    "baseOverall": 82,
+    "baseOffense": 83,
+    "baseDefense": 82,
+    "pace": 98,
+    "active": true,
+    "theme": {
+      "primary": "#C8102E",
+      "secondary": "#1D428A"
+    }
+  },
+  {
+    "id": "LAL",
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "conference": "West",
+    "division": "Pacific",
+    "baseOverall": 86,
+    "baseOffense": 88,
+    "baseDefense": 83,
+    "pace": 101,
+    "active": true,
+    "theme": {
+      "primary": "#552583",
+      "secondary": "#FDB927"
+    }
+  },
+  {
+    "id": "MEM",
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "conference": "West",
+    "division": "Southwest",
+    "baseOverall": 84,
+    "baseOffense": 85,
+    "baseDefense": 84,
+    "pace": 102,
+    "active": true,
+    "theme": {
+      "primary": "#5D76A9",
+      "secondary": "#12173F"
+    }
+  },
+  {
+    "id": "MIA",
+    "name": "Miami Heat",
+    "city": "Miami",
+    "conference": "East",
+    "division": "Southeast",
+    "baseOverall": 82,
+    "baseOffense": 81,
+    "baseDefense": 84,
+    "pace": 96,
+    "active": true,
+    "theme": {
+      "primary": "#98002E",
+      "secondary": "#F9A01B"
+    }
+  },
+  {
+    "id": "MIL",
+    "name": "Milwaukee Bucks",
+    "city": "Milwaukee",
+    "conference": "East",
+    "division": "Central",
+    "baseOverall": 86,
+    "baseOffense": 88,
+    "baseDefense": 84,
+    "pace": 100,
+    "active": true,
+    "theme": {
+      "primary": "#00471B",
+      "secondary": "#EEE1C6"
+    }
+  },
+  {
+    "id": "MIN",
+    "name": "Minnesota Timberwolves",
+    "city": "Minneapolis",
+    "conference": "West",
+    "division": "Northwest",
+    "baseOverall": 88,
+    "baseOffense": 86,
+    "baseDefense": 91,
+    "pace": 98,
+    "active": true,
+    "theme": {
+      "primary": "#0C2340",
+      "secondary": "#78BE20"
+    }
+  },
+  {
+    "id": "NOP",
+    "name": "New Orleans Pelicans",
+    "city": "New Orleans",
+    "conference": "West",
+    "division": "Southwest",
+    "baseOverall": 77,
+    "baseOffense": 79,
+    "baseDefense": 76,
+    "pace": 99,
+    "active": true,
+    "theme": {
+      "primary": "#0C2340",
+      "secondary": "#C8102E"
+    }
+  },
+  {
+    "id": "NYK",
+    "name": "New York Knicks",
+    "city": "New York",
+    "conference": "East",
+    "division": "Atlantic",
+    "baseOverall": 91,
+    "baseOffense": 92,
+    "baseDefense": 90,
+    "pace": 96,
+    "active": true,
+    "theme": {
+      "primary": "#006BB6",
+      "secondary": "#F58426"
+    }
+  },
+  {
+    "id": "OKC",
+    "name": "Oklahoma City Thunder",
+    "city": "Oklahoma City",
+    "conference": "West",
+    "division": "Northwest",
+    "baseOverall": 96,
+    "baseOffense": 96,
+    "baseDefense": 96,
+    "pace": 102,
+    "active": true,
+    "theme": {
+      "primary": "#007AC1",
+      "secondary": "#EF3B24"
+    }
+  },
+  {
+    "id": "ORL",
+    "name": "Orlando Magic",
+    "city": "Orlando",
+    "conference": "East",
+    "division": "Southeast",
+    "baseOverall": 86,
+    "baseOffense": 82,
+    "baseDefense": 91,
+    "pace": 97,
+    "active": true,
+    "theme": {
+      "primary": "#0077C0",
+      "secondary": "#C4CED4"
+    }
+  },
+  {
+    "id": "PHI",
+    "name": "Philadelphia 76ers",
+    "city": "Philadelphia",
+    "conference": "East",
+    "division": "Atlantic",
+    "baseOverall": 80,
+    "baseOffense": 83,
+    "baseDefense": 78,
+    "pace": 98,
+    "active": true,
+    "theme": {
+      "primary": "#006BB6",
+      "secondary": "#ED174C"
+    }
+  },
+  {
+    "id": "PHX",
+    "name": "Phoenix Suns",
+    "city": "Phoenix",
+    "conference": "West",
+    "division": "Pacific",
+    "baseOverall": 81,
+    "baseOffense": 84,
+    "baseDefense": 78,
+    "pace": 99,
+    "active": true,
+    "theme": {
+      "primary": "#1D1160",
+      "secondary": "#E56020"
+    }
+  },
+  {
+    "id": "POR",
+    "name": "Portland Trail Blazers",
+    "city": "Portland",
+    "conference": "West",
+    "division": "Northwest",
+    "baseOverall": 79,
+    "baseOffense": 78,
+    "baseDefense": 81,
+    "pace": 101,
+    "active": true,
+    "theme": {
+      "primary": "#E03A3E",
+      "secondary": "#000000"
+    }
+  },
+  {
+    "id": "SAC",
+    "name": "Sacramento Kings",
+    "city": "Sacramento",
+    "conference": "West",
+    "division": "Pacific",
+    "baseOverall": 82,
+    "baseOffense": 85,
+    "baseDefense": 79,
+    "pace": 103,
+    "active": true,
+    "theme": {
+      "primary": "#5A2D81",
+      "secondary": "#63727A"
+    }
+  },
+  {
+    "id": "SAS",
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "conference": "West",
+    "division": "Southwest",
+    "baseOverall": 88,
+    "baseOffense": 89,
+    "baseDefense": 87,
+    "pace": 101,
+    "active": true,
+    "theme": {
+      "primary": "#C4CED4",
+      "secondary": "#000000"
+    }
+  },
+  {
+    "id": "TOR",
+    "name": "Toronto Raptors",
+    "city": "Toronto",
+    "conference": "East",
+    "division": "Atlantic",
+    "baseOverall": 81,
+    "baseOffense": 80,
+    "baseDefense": 83,
+    "pace": 100,
+    "active": true,
+    "theme": {
+      "primary": "#CE1141",
+      "secondary": "#000000"
+    }
+  },
+  {
+    "id": "UTA",
+    "name": "Utah Jazz",
+    "city": "Salt Lake City",
+    "conference": "West",
+    "division": "Northwest",
+    "baseOverall": 76,
+    "baseOffense": 78,
+    "baseDefense": 74,
+    "pace": 99,
+    "active": true,
+    "theme": {
+      "primary": "#002B5C",
+      "secondary": "#F9A01B"
+    }
+  },
+  {
+    "id": "WAS",
+    "name": "Washington Wizards",
+    "city": "Washington",
+    "conference": "East",
+    "division": "Southeast",
+    "baseOverall": 72,
+    "baseOffense": 74,
+    "baseDefense": 71,
+    "pace": 103,
+    "active": true,
+    "theme": {
+      "primary": "#002B5C",
+      "secondary": "#E31837"
+    }
+  }
+]
