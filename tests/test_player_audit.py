@@ -17,9 +17,37 @@ class PlayerAuditTests(unittest.TestCase):
         cls.reference = {row["playerId"]: row for row in reference["players"]}
 
     def test_counts_and_unique_ids(self):
-        self.assertEqual((len(self.current), len(self.alltime)), (400, 400))
-        self.assertEqual(len({p["id"] for p in self.players}), 800)
-        self.assertGreaterEqual(sum(len(p["positions"]) > 1 for p in self.players), 320)
+        self.assertEqual((len(self.current), len(self.alltime)), (462, 1005))
+        self.assertEqual(len({p["id"] for p in self.players}), 1467)
+        self.assertGreaterEqual(sum(len(p["positions"]) > 1 for p in self.players), round(len(self.players) * .40))
+
+    def test_every_supported_franchise_era_has_a_complete_lineup(self):
+        positions = ("PG", "SG", "SF", "PF", "C")
+        version = json.loads((DATA / "data-version.json").read_text())
+
+        def complete(pool):
+            assigned = {}
+            def place(position, seen):
+                for player in pool:
+                    if position not in player["positions"] or player["id"] in seen:
+                        continue
+                    seen.add(player["id"])
+                    if player["id"] not in assigned or place(assigned[player["id"]], seen):
+                        assigned[player["id"]] = position
+                        return True
+                return False
+            return all(place(position, set()) for position in positions)
+
+        teams = {player["teamId"] for player in self.players}
+        for team in teams:
+            self.assertTrue(complete([p for p in self.current if p["teamId"] == team]), f"{team}/current")
+            self.assertTrue(complete([p for p in self.alltime if p["teamId"] == team]), f"{team}/all-time")
+            supported = version["supportedDraftErasByTeam"][team]
+            for era in ("70s", "80s", "90s", "00s", "10s"):
+                pool = [p for p in self.alltime if p["teamId"] == team and era in p["decadeTags"]]
+                self.assertEqual(bool(pool), era in supported, f"{team}/{era} availability")
+                if era in supported:
+                    self.assertTrue(complete(pool), f"{team}/{era}")
 
     def test_seasons_are_calendar_valid(self):
         for player in self.players:

@@ -65,7 +65,7 @@ python -m unittest tests/test_player_audit.py
 - `index.html` – semantic application shell
 - `css/` – reset, tokens, layout, components, and responsive rules
 - `js/` – isolated state, draft and lineup validation/UI, ratings, scheduling, regular-season simulation, playoff qualification/bracket/series/UI/results, audio, and persistence modules
-- `data/` – 30 franchises and 800 local player records (400 current and 400 all-time)
+- `data/` – 30 franchises and 1,467 local player records (462 current and 1,005 all-time)
 - `scripts/` – data validation and position-aware rating generation
 - `tests/` – package-free browser test runner
 
@@ -118,7 +118,7 @@ IDs must be globally unique. Ratings are custom—not official game ratings—an
 
 ### Fact audit and provenance
 
-The production files contain 400 current and 400 all-time records. At least 40% of the combined database has a secondary eligible position supported by recorded career positions. `scripts/audit-player-data.py` is report-only by default; `--apply` archives the pre-audit files, applies only unambiguous season-table corrections, writes `data/player-season-reference.json`, and regenerates the reports in `reports/`. The reference covers 1947–2026 NBA/BAA records and relevant ABA predecessor seasons. Current means 2025–26 regular-season participation. A player absent for the full season or listed for a different team is retained only as `manual-review-required`, never silently declared verified.
+The production files contain 462 current and 1,005 all-time records. At least 40% of the combined database has a secondary eligible position supported by recorded career positions. Every Current and All-Time franchise pool can field five unique eligible positions. A decade appears on the Era wheel only when that franchise lineage played during the decade, and every displayed franchise/decade pool is verified to field PG, SG, SF, PF, and C without reusing a player. `scripts/ensure-era-coverage.py` reproduces this coverage expansion from the audited season source. `scripts/audit-player-data.py` remains report-only by default; `--apply` archives the input files, applies only unambiguous season-table corrections, writes `data/player-season-reference.json`, and regenerates the reports in `reports/`. The reference covers 1947–2026 NBA/BAA records and relevant ABA predecessor seasons. Current means 2025–26 regular-season participation. A player absent for the full season or listed for a different team is retained only as `manual-review-required`, never silently declared verified.
 
 The all-time representative season is the highest season within that franchise lineage by a documented per-game productivity sum (points + rebounds + assists + steals + blocks), then minutes, games, and recency. This is a reproducible representative-season rule, not a claim that the selected year is an official “peak season.” Franchise lineage is explicit in the audit script. Examples include Seattle → Oklahoma City, New Jersey → Brooklyn, and Minneapolis → Los Angeles.
 

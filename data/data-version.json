@@ -1,12 +1,217 @@
 {
   "schemaVersion": "1.1.0",
-  "datasetVersion": "player-audit-800-v1",
+  "datasetVersion": "era-coverage-v1",
   "currentSeasonLabel": "2025-26",
   "snapshotDefinition": "2025-26 regular-season participation; unavailable/injured roster records are explicitly marked manual-review-required",
   "lineagePolicy": "Continuous current-franchise history using the explicit abbreviation map in scripts/audit-player-data.py",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-26",
+  "playerCounts": {
+    "current": 462,
+    "allTime": 1005,
+    "total": 1467
+  },
   "ratingScale": {
     "minimum": 40,
     "maximum": 99
+  },
+  "supportedDraftErasByTeam": {
+    "ATL": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "BOS": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "BKN": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "CHA": [
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "CHI": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "CLE": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "DAL": [
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "DEN": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "DET": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "GSW": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "HOU": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "IND": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "LAC": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "LAL": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "MEM": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "MIA": [
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "MIL": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "MIN": [
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "NOP": [
+      "00s",
+      "10s"
+    ],
+    "NYK": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "OKC": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "ORL": [
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "PHI": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "PHX": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "POR": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "SAC": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "SAS": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "TOR": [
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "UTA": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ],
+    "WAS": [
+      "70s",
+      "80s",
+      "90s",
+      "00s",
+      "10s"
+    ]
   }
 }

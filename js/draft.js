@@ -26,6 +26,8 @@ export function eligiblePlayersForEra(data,{teamId,eraId,roster=[],allDrafted=[]
   }).sort((a,b)=>b.overall-a.overall||a.name.localeCompare(b.name));
 }
 
+export function canCompleteOpenPositions(players,roster=[]){const open=openLineupPositions(roster),assigned=new Map();function place(position,seen){for(const player of players){if(!player.positions.includes(position)||seen.has(player.id))continue;seen.add(player.id);const previous=assigned.get(player.id);if(!previous||place(previous,seen)){assigned.set(player.id,position);return true}}return false}return open.every(position=>place(position,new Set()))}
+
 export function availableEraOptions(data,options){
-  return ERA_OPTIONS.filter(era=>eligiblePlayersForEra(data,{...options,eraId:era.id}).some(player=>eligibleOpenPositions(player,options.roster||[]).length))
+  return ERA_OPTIONS.filter(era=>canCompleteOpenPositions(eligiblePlayersForEra(data,{...options,eraId:era.id}),options.roster||[]))
 }
